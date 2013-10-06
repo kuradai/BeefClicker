@@ -1,0 +1,51 @@
+# Logfile created on 2013-10-06 17:31:49 +0900 by logger.rb/36483
+I [2013-10-06 17:31:49.820] [[32mConnectionManager[0m] Connection opened: #<Connection::bfc62e335a4c0920522b>
+
+I [2013-10-06 17:31:49.832] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-06 17:31:49.833] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-06 17:31:49.834] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>"bfc62e335a4c0920522b"}
+I [2013-10-06 17:31:49.834] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bfc62e335a4c0920522b>
+
+I [2013-10-06 17:31:49.862] [[32mDispatcher[0m] Event client_connected Finished in 0.001421 seconds
+
+I [2013-10-06 17:32:09.846] [[32mConnectionManager[0m] Connection closed: #<Connection::bfc62e335a4c0920522b>
+
+I [2013-10-06 17:32:44.695] [[32mConnectionManager[0m] Connection closed: #<Connection::bfc62e335a4c0920522b>
+
+I [2013-10-06 17:33:45.746] [[32mConnectionManager[0m] Connection opened: #<Connection::a00864b67a4321ea7b34>
+
+I [2013-10-06 17:33:45.760] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-06 17:33:45.761] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-06 17:33:45.761] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>"a00864b67a4321ea7b34"}
+I [2013-10-06 17:33:45.762] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::a00864b67a4321ea7b34>
+
+I [2013-10-06 17:33:45.774] [[32mDispatcher[0m] Event client_connected Finished in 0.000993 seconds
+
+I [2013-10-06 17:34:05.856] [[32mConnectionManager[0m] Connection closed: #<Connection::a00864b67a4321ea7b34>
+
+I [2013-10-06 17:34:21.462] [[32mConnectionManager[0m] Connection closed: #<Connection::a00864b67a4321ea7b34>
+
+I [2013-10-06 17:37:17.120] [[32mConnectionManager[0m] Connection opened: #<Connection::221321e04524d72974cd>
+
+I [2013-10-06 17:37:17.121] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-06 17:37:17.121] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-06 17:37:17.121] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>"221321e04524d72974cd"}
+I [2013-10-06 17:37:17.122] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::221321e04524d72974cd>
+
+I [2013-10-06 17:37:17.123] [[32mDispatcher[0m] Event client_connected Finished in 0.001442 seconds
+
+I [2013-10-06 17:37:18.531] [[32mConnectionManager[0m] Connection closed: #<Connection::221321e04524d72974cd>
+
+I [2013-10-06 17:37:18.608] [[32mConnectionManager[0m] Connection opened: #<Connection::9d648c393d2f4130a079>
+
+I [2013-10-06 17:37:18.617] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-06 17:37:18.618] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-06 17:37:18.618] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>"9d648c393d2f4130a079"}
+I [2013-10-06 17:37:18.618] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9d648c393d2f4130a079>
+
+I [2013-10-06 17:37:18.627] [[32mDispatcher[0m] Event client_connected Finished in 0.000733 seconds
+
+I [2013-10-06 17:37:38.718] [[32mConnectionManager[0m] Connection closed: #<Connection::9d648c393d2f4130a079>
+
+I [2013-10-06 17:38:07.316] [[32mConnectionManager[0m] Connection closed: #<Connection::9d648c393d2f4130a079>
+
