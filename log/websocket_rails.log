@@ -49,3 +49,12 @@ I [2013-10-06 17:37:38.718] [[32mConnectionManager[0m] Connection closed: #<Co
 
 I [2013-10-06 17:38:07.316] [[32mConnectionManager[0m] Connection closed: #<Connection::9d648c393d2f4130a079>
 
+I [2013-10-06 17:47:25.749] [[32mConnectionManager[0m] Connection opened: #<Connection::d92a9275700078c4f4a6>
+
+I [2013-10-06 17:47:25.755] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-06 17:47:25.756] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-06 17:47:25.756] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-06 17:47:25.756] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d92a9275700078c4f4a6>
+
+I [2013-10-06 17:47:25.769] [[32mDispatcher[0m] Event client_connected Finished in 0.001098 seconds
+
