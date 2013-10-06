@@ -292,3 +292,29 @@ Started GET "/websocket" for 127.0.0.1 at 2013-10-06 23:05:26 +0900
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-10-06 23:05:26 +0900
+  [1m[36m (1.1ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [1m[35m (0.9ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateItems (20131006155526)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.3ms)[0m  [1mCREATE TABLE "items" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "num" integer, "cost" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20131006155526"]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36mItem Load (0.2ms)[0m  [1mSELECT "items".* FROM "items"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (5.4ms)[0m  [1mINSERT INTO "items" ("cost", "created_at", "num", "updated_at") VALUES (?, ?, ?, ?)[0m  [["cost", 500], ["created_at", Sun, 06 Oct 2013 16:03:38 UTC +00:00], ["num", 1], ["updated_at", Sun, 06 Oct 2013 16:03:38 UTC +00:00]]
+  [1m[35m (0.9ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "items" ("cost", "created_at", "num", "updated_at") VALUES (?, ?, ?, ?)  [["cost", 500], ["created_at", Sun, 06 Oct 2013 16:03:40 UTC +00:00], ["num", 1], ["updated_at", Sun, 06 Oct 2013 16:03:40 UTC +00:00]]
+  [1m[36m (2.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "items" ("cost", "created_at", "num", "updated_at") VALUES (?, ?, ?, ?)[0m  [["cost", 500], ["created_at", Sun, 06 Oct 2013 16:03:41 UTC +00:00], ["num", 1], ["updated_at", Sun, 06 Oct 2013 16:03:41 UTC +00:00]]
+  [1m[35m (2.0ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "items" ("cost", "created_at", "num", "updated_at") VALUES (?, ?, ?, ?)  [["cost", 500], ["created_at", Sun, 06 Oct 2013 16:03:42 UTC +00:00], ["num", 1], ["updated_at", Sun, 06 Oct 2013 16:03:42 UTC +00:00]]
+  [1m[36m (2.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "items" ("cost", "created_at", "num", "updated_at") VALUES (?, ?, ?, ?)[0m  [["cost", 500], ["created_at", Sun, 06 Oct 2013 16:03:43 UTC +00:00], ["num", 1], ["updated_at", Sun, 06 Oct 2013 16:03:43 UTC +00:00]]
+  [1m[35m (2.1ms)[0m  commit transaction
+  [1m[36mItem Load (0.2ms)[0m  [1mSELECT "items".* FROM "items"[0m
