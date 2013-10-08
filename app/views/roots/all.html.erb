@@ -1,0 +1,12 @@
+
+<ul>
+<% @items.each do|item| %>
+  <li>
+    <%= item.id %>
+    <%= item.num %>
+    <%= item.cost %>
+    <%= item.created_at %>
+    <%= item.updated_at %>
+  </li>
+<% end %>
+</ul>

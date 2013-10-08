@@ -8,11 +8,6 @@ var failure = function(response) {
   console.log("That just totally failed: "+response.message);
 }
 
-function ff(){
-  var object_to_send = { data: 'test' }
-  dispatcher.trigger('event_name', object_to_send, success, failure); 
-}
-
 
 $(window).load(function (){
   dispatcher.on_open = function(){
@@ -24,6 +19,11 @@ $(window).load(function (){
     $("#num").html(data.message);
   });
 });
+
+function ff(){
+  var object_to_send = { data: 'test' }
+  dispatcher.trigger('event_name', object_to_send, success, failure); 
+}
 
 document.onkeydown = function (e){
   if (!e)	e = window.event;
