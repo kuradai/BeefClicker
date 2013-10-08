@@ -8,19 +8,21 @@ div{
 }
 
 #num{
-	font-size:64px;
-	background:#efefef;
-	border-radius:3px;
-
+	font-size:72px;
+	background:#cecece;
 }
 
 #button{
 	padding:20px;
 	background:#fff;
+}
 
+#button:hover{
+	background:#f0f0f0;
 }
 
 #section{
-	border:2px solid #efefef;
+	border:2px solid #cecece;
 	margin:30px;
+	text-align:center
 }
