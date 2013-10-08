@@ -1,6 +1,8 @@
 WebsocketRails::EventMap.describe do
 
   subscribe :client_connected, :to => WebsocketController, :with_method => :initialize_session
+  subscribe :event_name, :to => WebsocketController, :with_method => :add_session
+  #subscribe :event_name, :to => MyModule::EventController, :with_method => :action_method
   # You can use this file to map incoming events to controller actions.
   # One event can be mapped to any number of controller actions. The
   # actions will be executed in the order they were subscribed.

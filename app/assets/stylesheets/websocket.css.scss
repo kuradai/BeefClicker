@@ -1,3 +1,26 @@
 // Place all the styles related to the Websocket controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+div{
+	margin:0;
+	padding:0;
+}
+
+#num{
+	font-size:64px;
+	background:#efefef;
+	border-radius:3px;
+
+}
+
+#button{
+	padding:20px;
+	background:#fff;
+
+}
+
+#section{
+	border:2px solid #efefef;
+	margin:30px;
+}
