@@ -2,20 +2,43 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-html,body,ul,li{
+html,body,div,ul,li{
 	margin:0;
 	padding:0;
 }
 
+body{
+	padding:0 30px;
+}
+
 ul{
   list-style:none;
-  margin: 0 30px;
 }
 
 li{
 	border-bottom:1px solid #ccc;
 	padding:3px;
 }
+
 li:hover{
   background:#efefef;
+}
+
+#num{
+	font-size:72px;
+	background:#cecece;
+}
+
+#button{
+	padding:20px;
+	background:#fff;
+}
+
+#button:hover{
+	background:#f0f0f0;
+}
+
+#section{
+	border:2px solid #cecece;
+	text-align:center
 }
