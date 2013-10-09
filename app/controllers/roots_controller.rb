@@ -6,4 +6,8 @@ class RootsController < ApplicationController
   def all
     @items = Item.all
   end
+
+  def chart
+  	@items = Item.all
+  end
 end

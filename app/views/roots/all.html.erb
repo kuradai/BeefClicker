@@ -5,8 +5,8 @@
     <%= item.id %>
     <%= item.num %>
     <%= item.cost %>
-    <%= item.created_at %>
-    <%= item.updated_at %>
+    <%= item.created_at.in_time_zone("Asia/Tokyo") %>
+    <%= item.updated_at.in_time_zone("Asia/Tokyo") %>
   </li>
 <% end %>
 </ul>
