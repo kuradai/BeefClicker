@@ -1,6 +1,5 @@
 class RootsController < ApplicationController
   def index
-  	 #WebsocketRails[:event_name].trigger 'event', Item.all
   end
 
   def all
@@ -8,6 +7,8 @@ class RootsController < ApplicationController
   end
 
   def chart
-  	@items = Item.all
+    
   end
 end
+
+

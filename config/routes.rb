@@ -4,6 +4,8 @@ Hoge::Application.routes.draw do
 
   get 'all' => 'roots#all'
   get 'chart' => 'roots#chart'
+
+  get "api/calculated" => 'apis#calculated'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
