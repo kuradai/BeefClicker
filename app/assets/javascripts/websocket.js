@@ -1,5 +1,5 @@
 
-var dispatcher = new WebSocketRails('localhost:3000/websocket');
+var dispatcher = new WebSocketRails(window.location.host+'/websocket');
 
   var success = function(response) {
     console.log("Wow it worked: "+response.message);
@@ -11,19 +11,18 @@ var dispatcher = new WebSocketRails('localhost:3000/websocket');
 
 $(window).load(function (){
 
-  // $.getJSON("http://localhost:3000/api/calculated" , function(data) {
-  //   console.log(data);
-  // });
-
   dispatcher.on_open = function(){
     console.log('Connection Start');
   };
+
+  dispatcher.bind('new_user',function(data){
+    console.log("New User join");
+  });
 
   dispatcher.bind('event_name',function(data){
     console.log(data.message);
     $("#num").html(data.message);
   });
-
 });
 
 function ff(){
@@ -43,34 +42,4 @@ document.onkeydown = function (e){
   }
 }
 
-google.load("visualization", "1", {packages:["corechart","table"]});
-google.setOnLoadCallback(drawDateFormatTable);
-function drawDateFormatTable() {
-
-var jsonData = $.ajax({
-  url: "http://localhost:3000/api/calculated",
-  dataType:"json",
-  async: false
-}).responseText;
-
-var data = new google.visualization.DataTable();
-data.addColumn('string', 'date');
-data.addColumn('number', '販売数');
-data.addRows(jQuery.parseJSON(jsonData));
-
-var table = new google.visualization.Table(document.getElementById('dateformat_div'));
-table.draw(data, {showRowNumber: true});
-
-var view = new google.visualization.DataView(data);
-view.setColumns([0, 1]);
-
-var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
-chart.draw(view);
-
-google.visualization.events.addListener(table, 'sort',
-  function(event){
-    data.sort([{column: event.column, desc: !event.ascending}]);
-    chart.draw(view);
-  });
-}
 

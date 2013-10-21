@@ -12,7 +12,7 @@ class ApisController < ApplicationController
         @counts.store("#{item.created_at.strftime("%Y-%m-%dT%H")}:#{item.created_at.strftime("%M")[0...1]}0", count)
       else       
         nowtime = item.created_at
-        count = item.num
+        #count = item.num
       end
     end
     
