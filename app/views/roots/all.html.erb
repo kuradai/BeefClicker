@@ -1,8 +1,7 @@
-
 <ul>
 <% @items.each do|item| %>
   <li>
-    <%= item.id %>
+    <strong><%= item.id %></strong>
     <%= item.num %>
     <%= item.cost %>
     <%= item.created_at.in_time_zone("Asia/Tokyo") %>

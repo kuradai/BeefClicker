@@ -7,7 +7,9 @@ class RootsController < ApplicationController
   end
 
   def chart
-    
+  end
+
+  def button
   end
 end
 

@@ -1,0 +1,93 @@
+// Place all the styles related to the Roots controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+$orange:#ff5e69
+$white:#efefef
+$gray:#bcbcbc
+$light_gray:#cbcbcb
+
+html,
+body,
+div,
+ul,
+li,
+a
+  margin: 0px
+  padding: 0px
+
+
+body
+  width: 100%
+  height: 100%
+  background: $white
+  margin: 40px 0
+  font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",sans-serif
+  font-style: normal
+
+#menu
+  position: fixed
+  z-index: 10
+  top: 0
+  left: 0
+  width: 100%
+  background: $orange
+  padding: 0 30px
+  height: 30px
+  line-height: 30px
+  a
+    width: 60px
+    height: 30px
+    display: inline-block
+    text-decoration: none
+    color: $white
+    text-align: center
+    line-height: 30px
+  a:hover,
+  .active
+    color: $orange
+    background: $white
+strong
+  color: $orange
+
+ul
+  list-style: none
+
+  li
+    text-align: center
+    border-bottom: 1px solid $gray
+    padding: 4px
+    &:hover
+      background: rgba(235,235,235,0.8)
+
+#section
+  margin: 0 auto
+  width: 512px
+  border: 2px solid $gray
+  text-align: center
+
+  #num
+    font-size: 72px
+    background: $light_gray
+
+  #button
+    padding: 20px
+    background: $white
+    cursor: pointer
+    &:hover
+      background: $light_gray + #111
+    &:active
+      background: $orange + #888
+
+#logo      
+  position: fixed
+  top: 20px
+  right: 60px
+  width: 100px
+  height: 120px
+  z-index: -10
+  background-image: url(logo.png)
+  background-repeat: no-repeat
+  background-position: left bottom
+  background-size: 100px auto

@@ -22,6 +22,7 @@ $(window).load(function (){
   dispatcher.bind('event_name',function(data){
     console.log(data.message);
     $("#num").html(data.message);
+    $("#proceeds").html(data.message*500 + "円");
   });
 });
 

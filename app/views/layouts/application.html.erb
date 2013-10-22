@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hoge</title>
+  <title>BeefClicker</title>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => false %>
   <%= javascript_include_tag "application", "data-turbolinks-track" => false %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+<body><div id="logo"></div>
 
+<% menus = {"Home"=>"index", "Button"=>"button", "All"=>"all", "Chart"=>"chart"} %>
+<div id="menu">
+<% menus.each do|key,val| %>
+  <% if val == controller.action_name %>
+    <%= link_to key , { :controller => "roots", :action => val }, { :class => "active" } %>
+  <% else %>
+    <%= link_to key , { :controller => "roots", :action => val } %>
+  <% end %>
+<% end %>
+</div>
+
+<div class="container">
+<div class="row">
 <%= yield %>
-
-<%= link_to 'Root', root_path %>
-<%= link_to 'All', all_path %>
-<%= link_to 'Chart', chart_path %>
+</div>
+</div>
 
 </body>
 </html>

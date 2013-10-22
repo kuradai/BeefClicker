@@ -1,3 +1,109 @@
 // Place all the styles related to the apis controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1170px;
+}
+
+.container:before,
+.container:after {
+  display: table;
+  content: " ";
+}
+
+.container:after {
+  clear: both;
+}
+
+.container:before,
+.container:after {
+  display: table;
+  content: " ";
+}
+
+.container:after {
+  clear: both;
+}
+
+
+
+.row{
+  &:before,
+&.row:after {
+  display: table;
+  content: " ";
+}
+
+&:after {
+  clear: both;
+}
+
+&:before,
+&:after {
+  display: table;
+  content: " ";
+}
+
+&:after {
+  clear: both;
+}
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12{
+  float:left;
+  position: relative;
+  min-height: 1px;
+}
+
+.col-1 {width: 8.333333333333332%;}
+.col-2 {width: 16.666666666666664%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33333333333333%;}
+.col-5 {width: 41.66666666666667%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.333333333333336%;}
+.col-8 {width: 66.66666666666666%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33333333333334%;}
+.col-11 {width: 91.66666666666666%;}
+.col-12 {width: 100%;}
+
+#dis{
+.main{
+  padding:4px;
+  margin: 0 auto;
+  width:768px;
+  & > div{
+    border:2px solid #eee;
+    padding:4px;
+    height:400px;
+  }
+}
+
+.sub{
+  & > div div{
+    height:60px;
+    margin:5px;
+    border:2px solid #eee;
+    &:hover{
+      border:2px solid #35d6c0;
+    }
+  }
+}
+}
