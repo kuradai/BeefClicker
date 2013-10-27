@@ -46056,3 +46056,2730 @@ I [2013-10-27 16:18:59.133] [[32mDispatcher[0m] Event client_connected Finishe
 
 I [2013-10-27 16:19:48.833] [[32mConnectionManager[0m] Connection closed: #<Connection::c9761cd6ad19895146f7>
 
+I [2013-10-27 16:27:42.501] [[32mConnectionManager[0m] Connection opened: #<Connection::3541b3b80d6eefabf175>
+
+I [2013-10-27 16:27:42.502] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:27:42.502] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:27:42.502] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:27:42.502] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3541b3b80d6eefabf175>
+
+I [2013-10-27 16:27:42.504] [[32mDispatcher[0m] Event client_connected Finished in 0.002277 seconds
+
+I [2013-10-27 16:27:50.862] [[32mConnectionManager[0m] Connection closed: #<Connection::3541b3b80d6eefabf175>
+
+I [2013-10-27 16:27:52.450] [[32mConnectionManager[0m] Connection opened: #<Connection::6d925defd3c02a26edbb>
+
+I [2013-10-27 16:27:52.450] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:27:52.451] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:27:52.451] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:27:52.451] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d925defd3c02a26edbb>
+
+I [2013-10-27 16:27:52.454] [[32mDispatcher[0m] Event client_connected Finished in 0.003491 seconds
+
+I [2013-10-27 16:27:54.106] [[32mConnectionManager[0m] Connection closed: #<Connection::6d925defd3c02a26edbb>
+
+I [2013-10-27 16:27:54.132] [[32mConnectionManager[0m] Connection opened: #<Connection::9cddc1342e026209ffa2>
+
+I [2013-10-27 16:27:54.133] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:27:54.133] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:27:54.133] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:27:54.133] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cddc1342e026209ffa2>
+
+I [2013-10-27 16:27:54.135] [[32mDispatcher[0m] Event client_connected Finished in 0.002019 seconds
+
+I [2013-10-27 16:27:56.841] [[32mConnectionManager[0m] Connection closed: #<Connection::9cddc1342e026209ffa2>
+
+I [2013-10-27 16:27:56.867] [[32mConnectionManager[0m] Connection opened: #<Connection::598f68ba5b4c054228fd>
+
+I [2013-10-27 16:27:56.868] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:27:56.868] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:27:56.868] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:27:56.868] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::598f68ba5b4c054228fd>
+
+I [2013-10-27 16:27:56.870] [[32mDispatcher[0m] Event client_connected Finished in 0.002159 seconds
+
+I [2013-10-27 16:28:00.339] [[32mConnectionManager[0m] Connection closed: #<Connection::598f68ba5b4c054228fd>
+
+I [2013-10-27 16:28:00.363] [[32mConnectionManager[0m] Connection opened: #<Connection::db0c36086da7c455aa8c>
+
+I [2013-10-27 16:28:00.364] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:28:00.364] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:28:00.364] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:28:00.364] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::db0c36086da7c455aa8c>
+
+I [2013-10-27 16:28:00.366] [[32mDispatcher[0m] Event client_connected Finished in 0.001996 seconds
+
+I [2013-10-27 16:28:01.173] [[32mConnectionManager[0m] Connection closed: #<Connection::db0c36086da7c455aa8c>
+
+I [2013-10-27 16:28:09.109] [[32mConnectionManager[0m] Connection opened: #<Connection::53781ebdb14e17043f60>
+
+I [2013-10-27 16:28:09.109] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 16:28:09.109] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 16:28:09.109] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 16:28:09.109] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::53781ebdb14e17043f60>
+
+I [2013-10-27 16:28:09.112] [[32mDispatcher[0m] Event client_connected Finished in 0.002881 seconds
+
+I [2013-10-27 16:28:22.472] [[32mConnectionManager[0m] Connection closed: #<Connection::53781ebdb14e17043f60>
+
+I [2013-10-27 16:28:23.506] [[32mConnectionManager[0m] Connection closed: #<Connection::880d3c7a104f15b51b73>
+
+I [2013-10-27 17:18:03.944] [[32mConnectionManager[0m] Connection opened: #<Connection::e9b80ebf8cf6a72c94c9>
+
+I [2013-10-27 17:18:03.945] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:18:03.945] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:18:03.945] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:18:03.945] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e9b80ebf8cf6a72c94c9>
+
+I [2013-10-27 17:18:03.954] [[32mDispatcher[0m] Event client_connected Finished in 0.008381 seconds
+
+I [2013-10-27 17:18:07.447] [[32mConnectionManager[0m] Connection closed: #<Connection::e9b80ebf8cf6a72c94c9>
+
+I [2013-10-27 17:18:07.568] [[32mConnectionManager[0m] Connection opened: #<Connection::eaf1d8420c7b44534b9f>
+
+I [2013-10-27 17:18:07.568] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:18:07.568] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:18:07.568] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:18:07.568] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::eaf1d8420c7b44534b9f>
+
+I [2013-10-27 17:18:07.571] [[32mDispatcher[0m] Event client_connected Finished in 0.00274 seconds
+
+I [2013-10-27 17:18:48.236] [[32mConnectionManager[0m] Connection closed: #<Connection::eaf1d8420c7b44534b9f>
+
+I [2013-10-27 17:18:48.406] [[32mConnectionManager[0m] Connection opened: #<Connection::e61e8f4c3edacd4ab107>
+
+I [2013-10-27 17:18:48.406] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:18:48.406] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:18:48.406] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:18:48.406] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e61e8f4c3edacd4ab107>
+
+I [2013-10-27 17:18:48.409] [[32mDispatcher[0m] Event client_connected Finished in 0.0028 seconds
+
+I [2013-10-27 17:18:57.433] [[32mConnectionManager[0m] Connection opened: #<Connection::a43b7347d8ce062ff9f3>
+
+I [2013-10-27 17:18:57.434] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:18:57.434] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:18:57.434] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:18:57.434] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::a43b7347d8ce062ff9f3>
+
+I [2013-10-27 17:18:57.438] [[32mDispatcher[0m] Event client_connected Finished in 0.003711 seconds
+
+I [2013-10-27 17:19:03.711] [[32mConnectionManager[0m] Connection closed: #<Connection::a43b7347d8ce062ff9f3>
+
+I [2013-10-27 17:19:03.808] [[32mConnectionManager[0m] Connection opened: #<Connection::3dbc8e0b80498ca589ea>
+
+I [2013-10-27 17:19:03.809] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:19:03.809] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:19:03.809] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:19:03.809] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3dbc8e0b80498ca589ea>
+
+I [2013-10-27 17:19:03.812] [[32mDispatcher[0m] Event client_connected Finished in 0.002625 seconds
+
+I [2013-10-27 17:20:24.411] [[32mConnectionManager[0m] Connection closed: #<Connection::e61e8f4c3edacd4ab107>
+
+I [2013-10-27 17:20:51.908] [[32mConnectionManager[0m] Connection opened: #<Connection::4e21f4a1438e7169aef1>
+
+I [2013-10-27 17:20:51.909] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:20:51.909] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:20:51.909] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:20:51.909] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4e21f4a1438e7169aef1>
+
+I [2013-10-27 17:20:51.912] [[32mDispatcher[0m] Event client_connected Finished in 0.002872 seconds
+
+I [2013-10-27 17:21:01.332] [[32mConnectionManager[0m] Connection closed: #<Connection::4e21f4a1438e7169aef1>
+
+I [2013-10-27 17:21:26.333] [[32mConnectionManager[0m] Connection opened: #<Connection::8f1c9798419fcf71d0c5>
+
+I [2013-10-27 17:21:26.334] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:21:26.334] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:21:26.334] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:21:26.334] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8f1c9798419fcf71d0c5>
+
+I [2013-10-27 17:21:26.336] [[32mDispatcher[0m] Event client_connected Finished in 0.002066 seconds
+
+I [2013-10-27 17:21:57.637] [[32mConnectionManager[0m] Connection closed: #<Connection::8f1c9798419fcf71d0c5>
+
+I [2013-10-27 17:22:04.257] [[32mConnectionManager[0m] Connection opened: #<Connection::e3f1f2cb6c377ebb2665>
+
+I [2013-10-27 17:22:04.258] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:22:04.258] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:22:04.258] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:22:04.258] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e3f1f2cb6c377ebb2665>
+
+I [2013-10-27 17:22:04.261] [[32mDispatcher[0m] Event client_connected Finished in 0.002712 seconds
+
+I [2013-10-27 17:22:05.389] [[32mConnectionManager[0m] Connection closed: #<Connection::e3f1f2cb6c377ebb2665>
+
+I [2013-10-27 17:22:05.498] [[32mConnectionManager[0m] Connection opened: #<Connection::2ca630b7e6cdcb154bb5>
+
+I [2013-10-27 17:22:05.499] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:22:05.499] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:22:05.499] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:22:05.499] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2ca630b7e6cdcb154bb5>
+
+I [2013-10-27 17:22:05.501] [[32mDispatcher[0m] Event client_connected Finished in 0.002342 seconds
+
+I [2013-10-27 17:27:09.347] [[32mConnectionManager[0m] Connection closed: #<Connection::2ca630b7e6cdcb154bb5>
+
+I [2013-10-27 17:27:09.519] [[32mConnectionManager[0m] Connection opened: #<Connection::6d6b0916204a61020f4f>
+
+I [2013-10-27 17:27:09.520] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:27:09.520] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:27:09.520] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:27:09.520] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d6b0916204a61020f4f>
+
+I [2013-10-27 17:27:09.522] [[32mDispatcher[0m] Event client_connected Finished in 0.002418 seconds
+
+I [2013-10-27 17:27:28.967] [[32mConnectionManager[0m] Connection closed: #<Connection::6d6b0916204a61020f4f>
+
+I [2013-10-27 17:27:29.136] [[32mConnectionManager[0m] Connection opened: #<Connection::2b4f57f2582bf34d1c59>
+
+I [2013-10-27 17:27:29.136] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:27:29.136] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:27:29.136] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:27:29.136] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2b4f57f2582bf34d1c59>
+
+I [2013-10-27 17:27:29.139] [[32mDispatcher[0m] Event client_connected Finished in 0.002309 seconds
+
+I [2013-10-27 17:27:35.571] [[32mConnectionManager[0m] Connection closed: #<Connection::2b4f57f2582bf34d1c59>
+
+I [2013-10-27 17:27:35.682] [[32mConnectionManager[0m] Connection opened: #<Connection::2e080e025a02aabb80fb>
+
+I [2013-10-27 17:27:35.682] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:27:35.682] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:27:35.682] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:27:35.682] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e080e025a02aabb80fb>
+
+I [2013-10-27 17:27:35.685] [[32mDispatcher[0m] Event client_connected Finished in 0.00274 seconds
+
+I [2013-10-27 17:27:38.127] [[32mConnectionManager[0m] Connection closed: #<Connection::2e080e025a02aabb80fb>
+
+I [2013-10-27 17:27:41.901] [[32mConnectionManager[0m] Connection opened: #<Connection::438620ce9a37eb2324c8>
+
+I [2013-10-27 17:27:41.901] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:27:41.901] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:27:41.902] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:27:41.902] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::438620ce9a37eb2324c8>
+
+I [2013-10-27 17:27:41.904] [[32mDispatcher[0m] Event client_connected Finished in 0.002172 seconds
+
+I [2013-10-27 17:27:55.543] [[32mConnectionManager[0m] Connection closed: #<Connection::438620ce9a37eb2324c8>
+
+I [2013-10-27 17:27:55.672] [[32mConnectionManager[0m] Connection opened: #<Connection::840dce522b3bd5aa2774>
+
+I [2013-10-27 17:27:55.672] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:27:55.672] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:27:55.672] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:27:55.672] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::840dce522b3bd5aa2774>
+
+I [2013-10-27 17:27:55.675] [[32mDispatcher[0m] Event client_connected Finished in 0.002526 seconds
+
+I [2013-10-27 17:28:19.114] [[32mConnectionManager[0m] Connection closed: #<Connection::840dce522b3bd5aa2774>
+
+I [2013-10-27 17:28:19.322] [[32mConnectionManager[0m] Connection opened: #<Connection::a0d10ae69e7c7c4ee486>
+
+I [2013-10-27 17:28:19.323] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:28:19.323] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:28:19.323] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:28:19.323] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::a0d10ae69e7c7c4ee486>
+
+I [2013-10-27 17:28:19.329] [[32mDispatcher[0m] Event client_connected Finished in 0.004678 seconds
+
+I [2013-10-27 17:28:23.631] [[32mConnectionManager[0m] Connection closed: #<Connection::a0d10ae69e7c7c4ee486>
+
+I [2013-10-27 17:28:35.992] [[32mConnectionManager[0m] Connection opened: #<Connection::f3cb84eec23a3d49b0cc>
+
+I [2013-10-27 17:28:35.992] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:28:35.992] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:28:35.992] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:28:35.992] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f3cb84eec23a3d49b0cc>
+
+I [2013-10-27 17:28:35.995] [[32mDispatcher[0m] Event client_connected Finished in 0.002811 seconds
+
+I [2013-10-27 17:28:37.796] [[32mConnectionManager[0m] Connection closed: #<Connection::f3cb84eec23a3d49b0cc>
+
+I [2013-10-27 17:28:37.906] [[32mConnectionManager[0m] Connection opened: #<Connection::39224d3175a470624004>
+
+I [2013-10-27 17:28:37.907] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:28:37.907] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:28:37.907] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:28:37.907] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::39224d3175a470624004>
+
+I [2013-10-27 17:28:37.909] [[32mDispatcher[0m] Event client_connected Finished in 0.002177 seconds
+
+I [2013-10-27 17:29:41.553] [[32mConnectionManager[0m] Connection closed: #<Connection::39224d3175a470624004>
+
+I [2013-10-27 17:29:45.568] [[32mConnectionManager[0m] Connection opened: #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:45.568] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:29:45.568] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:29:45.568] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:29:45.568] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:45.571] [[32mDispatcher[0m] Event client_connected Finished in 0.002231 seconds
+
+I [2013-10-27 17:29:47.789] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:29:47.790] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:29:47.790] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:29:47.790] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:47.801] [[32mDispatcher[0m] Event event_name Finished in 0.011496 seconds
+
+I [2013-10-27 17:29:48.662] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:29:48.662] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:29:48.662] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:29:48.662] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:48.672] [[32mDispatcher[0m] Event event_name Finished in 0.009159 seconds
+
+I [2013-10-27 17:29:49.767] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:29:49.767] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:29:49.767] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:29:49.767] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:49.777] [[32mDispatcher[0m] Event event_name Finished in 0.009094 seconds
+
+I [2013-10-27 17:29:51.644] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:29:51.645] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:29:51.645] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:29:51.645] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:29:51.653] [[32mDispatcher[0m] Event event_name Finished in 0.007934 seconds
+
+I [2013-10-27 17:30:11.856] [[32mConnectionManager[0m] Connection closed: #<Connection::d3bb5ba46a6ca4beba41>
+
+I [2013-10-27 17:30:11.974] [[32mConnectionManager[0m] Connection opened: #<Connection::e332286040b2e2aaa308>
+
+I [2013-10-27 17:30:11.975] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:30:11.975] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:30:11.975] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:30:11.975] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e332286040b2e2aaa308>
+
+I [2013-10-27 17:30:11.977] [[32mDispatcher[0m] Event client_connected Finished in 0.002042 seconds
+
+I [2013-10-27 17:30:45.497] [[32mConnectionManager[0m] Connection closed: #<Connection::e332286040b2e2aaa308>
+
+I [2013-10-27 17:30:45.212] [[32mConnectionManager[0m] Connection opened: #<Connection::7c049421ddb3ddccc4e2>
+
+I [2013-10-27 17:30:45.212] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:30:45.212] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:30:45.212] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:30:45.213] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7c049421ddb3ddccc4e2>
+
+I [2013-10-27 17:30:45.215] [[32mDispatcher[0m] Event client_connected Finished in 0.002754 seconds
+
+I [2013-10-27 17:30:47.363] [[32mConnectionManager[0m] Connection closed: #<Connection::7c049421ddb3ddccc4e2>
+
+I [2013-10-27 17:33:34.114] [[32mConnectionManager[0m] Connection opened: #<Connection::d2e15710019cf7000367>
+
+I [2013-10-27 17:33:34.115] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:33:34.115] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:33:34.115] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:33:34.115] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d2e15710019cf7000367>
+
+I [2013-10-27 17:33:34.117] [[32mDispatcher[0m] Event client_connected Finished in 0.002146 seconds
+
+I [2013-10-27 17:33:36.306] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:33:36.306] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:33:36.307] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:33:36.307] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d2e15710019cf7000367>
+
+I [2013-10-27 17:33:36.317] [[32mDispatcher[0m] Event event_name Finished in 0.010205 seconds
+
+I [2013-10-27 17:33:38.777] [[32mConnectionManager[0m] Connection closed: #<Connection::d2e15710019cf7000367>
+
+I [2013-10-27 17:33:38.889] [[32mConnectionManager[0m] Connection opened: #<Connection::2fcd81dd0047d624aa4b>
+
+I [2013-10-27 17:33:38.889] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:33:38.889] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:33:38.889] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:33:38.889] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2fcd81dd0047d624aa4b>
+
+I [2013-10-27 17:33:38.892] [[32mDispatcher[0m] Event client_connected Finished in 0.002734 seconds
+
+I [2013-10-27 17:34:29.654] [[32mConnectionManager[0m] Connection closed: #<Connection::2fcd81dd0047d624aa4b>
+
+I [2013-10-27 17:34:29.831] [[32mConnectionManager[0m] Connection opened: #<Connection::ea30eb517b419938adfb>
+
+I [2013-10-27 17:34:29.832] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:34:29.832] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:34:29.832] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:34:29.832] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ea30eb517b419938adfb>
+
+I [2013-10-27 17:34:29.835] [[32mDispatcher[0m] Event client_connected Finished in 0.002516 seconds
+
+I [2013-10-27 17:34:32.489] [[32mConnectionManager[0m] Connection closed: #<Connection::ea30eb517b419938adfb>
+
+I [2013-10-27 17:34:32.600] [[32mConnectionManager[0m] Connection opened: #<Connection::126131b5d096f9095a0d>
+
+I [2013-10-27 17:34:32.600] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:34:32.600] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:34:32.600] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:34:32.600] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::126131b5d096f9095a0d>
+
+I [2013-10-27 17:34:32.603] [[32mDispatcher[0m] Event client_connected Finished in 0.002111 seconds
+
+I [2013-10-27 17:34:34.345] [[32mConnectionManager[0m] Connection closed: #<Connection::126131b5d096f9095a0d>
+
+I [2013-10-27 17:34:46.619] [[32mConnectionManager[0m] Connection opened: #<Connection::a232237dbdf54ca050e0>
+
+I [2013-10-27 17:34:46.619] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:34:46.619] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:34:46.619] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:34:46.619] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::a232237dbdf54ca050e0>
+
+I [2013-10-27 17:34:46.622] [[32mDispatcher[0m] Event client_connected Finished in 0.002757 seconds
+
+I [2013-10-27 17:35:11.350] [[32mConnectionManager[0m] Connection closed: #<Connection::a232237dbdf54ca050e0>
+
+I [2013-10-27 17:35:54.400] [[32mConnectionManager[0m] Connection opened: #<Connection::d5c370ca84147341136a>
+
+I [2013-10-27 17:35:54.400] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:35:54.400] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:35:54.400] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:35:54.400] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d5c370ca84147341136a>
+
+I [2013-10-27 17:35:54.402] [[32mDispatcher[0m] Event client_connected Finished in 0.001933 seconds
+
+I [2013-10-27 17:36:10.463] [[32mConnectionManager[0m] Connection closed: #<Connection::d5c370ca84147341136a>
+
+I [2013-10-27 17:36:11.943] [[32mConnectionManager[0m] Connection opened: #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:11.943] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:36:11.944] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:36:11.944] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:36:11.944] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:11.945] [[32mDispatcher[0m] Event client_connected Finished in 0.001792 seconds
+
+I [2013-10-27 17:36:17.125] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:36:17.125] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:36:17.125] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:36:17.125] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:17.133] [[32mDispatcher[0m] Event event_name Finished in 0.007133 seconds
+
+I [2013-10-27 17:36:18.354] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:36:18.354] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:36:18.354] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:36:18.354] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:18.361] [[32mDispatcher[0m] Event event_name Finished in 0.006672 seconds
+
+I [2013-10-27 17:36:19.594] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:36:19.594] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:36:19.594] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:36:19.594] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:19.600] [[32mDispatcher[0m] Event event_name Finished in 0.006613 seconds
+
+I [2013-10-27 17:36:20.612] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:36:20.612] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:36:20.612] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:36:20.612] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:20.619] [[32mDispatcher[0m] Event event_name Finished in 0.006733 seconds
+
+I [2013-10-27 17:36:22.509] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:36:22.510] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:36:22.510] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:36:22.510] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:36:22.575] [[32mDispatcher[0m] Event event_name Finished in 0.006389 seconds
+
+I [2013-10-27 17:36:25.437] [[32mConnectionManager[0m] Connection closed: #<Connection::2be7d5eee463cdcac224>
+
+I [2013-10-27 17:37:04.240] [[32mConnectionManager[0m] Connection opened: #<Connection::70ea7c19f79d75c7c019>
+
+I [2013-10-27 17:37:04.240] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:37:04.240] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:37:04.240] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:37:04.241] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::70ea7c19f79d75c7c019>
+
+I [2013-10-27 17:37:04.242] [[32mDispatcher[0m] Event client_connected Finished in 0.001836 seconds
+
+I [2013-10-27 17:38:05.776] [[32mConnectionManager[0m] Connection closed: #<Connection::70ea7c19f79d75c7c019>
+
+I [2013-10-27 17:38:20.968] [[32mConnectionManager[0m] Connection opened: #<Connection::4c9e21b2e2ec6937ac7b>
+
+I [2013-10-27 17:38:20.968] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:38:20.969] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:38:20.969] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:38:20.969] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4c9e21b2e2ec6937ac7b>
+
+I [2013-10-27 17:38:20.971] [[32mDispatcher[0m] Event client_connected Finished in 0.001897 seconds
+
+I [2013-10-27 17:38:36.200] [[32mConnectionManager[0m] Connection closed: #<Connection::4c9e21b2e2ec6937ac7b>
+
+I [2013-10-27 17:41:14.114] [[32mConnectionManager[0m] Connection opened: #<Connection::4678f560ca369c4f7ee8>
+
+I [2013-10-27 17:41:14.121] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:41:14.122] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:41:14.122] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:41:14.123] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4678f560ca369c4f7ee8>
+
+I [2013-10-27 17:41:14.157] [[32mDispatcher[0m] Event client_connected Finished in 0.003283 seconds
+
+I [2013-10-27 17:41:15.329] [[32mConnectionManager[0m] Connection closed: #<Connection::4678f560ca369c4f7ee8>
+
+I [2013-10-27 17:41:15.441] [[32mConnectionManager[0m] Connection opened: #<Connection::ad2d29c7bea2e6a445a9>
+
+I [2013-10-27 17:41:15.442] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:41:15.442] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:41:15.442] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:41:15.442] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ad2d29c7bea2e6a445a9>
+
+I [2013-10-27 17:41:15.444] [[32mDispatcher[0m] Event client_connected Finished in 0.002108 seconds
+
+I [2013-10-27 17:41:20.171] [[32mConnectionManager[0m] Connection closed: #<Connection::ad2d29c7bea2e6a445a9>
+
+I [2013-10-27 17:41:23.543] [[32mConnectionManager[0m] Connection opened: #<Connection::7ecc93e9fc3fbcb7e15c>
+
+I [2013-10-27 17:41:23.544] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:41:23.544] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:41:23.544] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:41:23.544] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7ecc93e9fc3fbcb7e15c>
+
+I [2013-10-27 17:41:23.547] [[32mDispatcher[0m] Event client_connected Finished in 0.002998 seconds
+
+I [2013-10-27 17:48:18.899] [[32mConnectionManager[0m] Connection closed: #<Connection::7ecc93e9fc3fbcb7e15c>
+
+I [2013-10-27 17:48:18.251] [[32mConnectionManager[0m] Connection opened: #<Connection::d11cf6b7ec973452ec92>
+
+I [2013-10-27 17:48:18.252] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:18.252] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:18.252] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:18.252] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d11cf6b7ec973452ec92>
+
+I [2013-10-27 17:48:18.255] [[32mDispatcher[0m] Event client_connected Finished in 0.002632 seconds
+
+I [2013-10-27 17:48:19.165] [[32mConnectionManager[0m] Connection closed: #<Connection::d11cf6b7ec973452ec92>
+
+I [2013-10-27 17:48:19.294] [[32mConnectionManager[0m] Connection opened: #<Connection::f21d96d0d0314fc45544>
+
+I [2013-10-27 17:48:19.294] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:19.294] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:19.294] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:19.294] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f21d96d0d0314fc45544>
+
+I [2013-10-27 17:48:19.297] [[32mDispatcher[0m] Event client_connected Finished in 0.002335 seconds
+
+I [2013-10-27 17:48:20.818] [[32mConnectionManager[0m] Connection closed: #<Connection::f21d96d0d0314fc45544>
+
+I [2013-10-27 17:48:24.505] [[32mConnectionManager[0m] Connection opened: #<Connection::caac4c1c73330a7874da>
+
+I [2013-10-27 17:48:24.505] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:24.505] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:24.505] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:24.505] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::caac4c1c73330a7874da>
+
+I [2013-10-27 17:48:24.508] [[32mDispatcher[0m] Event client_connected Finished in 0.002044 seconds
+
+I [2013-10-27 17:48:25.713] [[32mConnectionManager[0m] Connection closed: #<Connection::caac4c1c73330a7874da>
+
+I [2013-10-27 17:48:25.821] [[32mConnectionManager[0m] Connection opened: #<Connection::3e4b994dd65f49f4a9e1>
+
+I [2013-10-27 17:48:25.822] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:25.822] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:25.822] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:25.822] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3e4b994dd65f49f4a9e1>
+
+I [2013-10-27 17:48:25.825] [[32mDispatcher[0m] Event client_connected Finished in 0.003022 seconds
+
+I [2013-10-27 17:48:28.188] [[32mConnectionManager[0m] Connection closed: #<Connection::3e4b994dd65f49f4a9e1>
+
+I [2013-10-27 17:48:30.263] [[32mConnectionManager[0m] Connection opened: #<Connection::627276df5202f3d25550>
+
+I [2013-10-27 17:48:30.264] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:30.264] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:30.264] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:30.264] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::627276df5202f3d25550>
+
+I [2013-10-27 17:48:30.268] [[32mDispatcher[0m] Event client_connected Finished in 0.003198 seconds
+
+I [2013-10-27 17:48:31.797] [[32mConnectionManager[0m] Connection closed: #<Connection::627276df5202f3d25550>
+
+I [2013-10-27 17:48:31.908] [[32mConnectionManager[0m] Connection opened: #<Connection::efb18850958db5d64ea6>
+
+I [2013-10-27 17:48:31.909] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:48:31.909] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:48:31.909] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:48:31.909] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::efb18850958db5d64ea6>
+
+I [2013-10-27 17:48:31.912] [[32mDispatcher[0m] Event client_connected Finished in 0.002771 seconds
+
+I [2013-10-27 17:53:58.491] [[32mConnectionManager[0m] Connection closed: #<Connection::efb18850958db5d64ea6>
+
+I [2013-10-27 17:53:58.692] [[32mConnectionManager[0m] Connection opened: #<Connection::7b51b7070ddbc2042fae>
+
+I [2013-10-27 17:53:58.693] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:53:58.693] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:53:58.693] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:53:58.693] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7b51b7070ddbc2042fae>
+
+I [2013-10-27 17:53:58.696] [[32mDispatcher[0m] Event client_connected Finished in 0.002666 seconds
+
+I [2013-10-27 17:54:00.177] [[32mConnectionManager[0m] Connection closed: #<Connection::7b51b7070ddbc2042fae>
+
+I [2013-10-27 17:54:00.288] [[32mConnectionManager[0m] Connection opened: #<Connection::0bbe6f3d0d39e3cb0b5a>
+
+I [2013-10-27 17:54:00.289] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:54:00.289] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:54:00.289] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:54:00.289] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0bbe6f3d0d39e3cb0b5a>
+
+I [2013-10-27 17:54:00.291] [[32mDispatcher[0m] Event client_connected Finished in 0.002173 seconds
+
+I [2013-10-27 17:54:01.856] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:01.856] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:01.856] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:01.856] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0bbe6f3d0d39e3cb0b5a>
+
+I [2013-10-27 17:54:01.864] [[32mDispatcher[0m] Event event_name Finished in 0.007436 seconds
+
+I [2013-10-27 17:54:02.705] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:02.706] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:02.706] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:02.706] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0bbe6f3d0d39e3cb0b5a>
+
+I [2013-10-27 17:54:02.712] [[32mDispatcher[0m] Event event_name Finished in 0.006229 seconds
+
+I [2013-10-27 17:54:14.222] [[32mConnectionManager[0m] Connection closed: #<Connection::0bbe6f3d0d39e3cb0b5a>
+
+I [2013-10-27 17:54:14.341] [[32mConnectionManager[0m] Connection opened: #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:14.342] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:54:14.342] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:54:14.342] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:54:14.342] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:14.344] [[32mDispatcher[0m] Event client_connected Finished in 0.002393 seconds
+
+I [2013-10-27 17:54:15.348] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:15.348] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:15.348] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:15.348] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:15.356] [[32mDispatcher[0m] Event event_name Finished in 0.007787 seconds
+
+I [2013-10-27 17:54:16.158] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:16.159] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:16.159] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:16.159] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:16.165] [[32mDispatcher[0m] Event event_name Finished in 0.006296 seconds
+
+I [2013-10-27 17:54:16.517] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:16.517] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:16.517] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:16.517] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:16.525] [[32mDispatcher[0m] Event event_name Finished in 0.007922 seconds
+
+I [2013-10-27 17:54:16.668] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:16.668] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:16.668] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:16.668] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:16.677] [[32mDispatcher[0m] Event event_name Finished in 0.008682 seconds
+
+I [2013-10-27 17:54:16.836] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:16.837] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:16.837] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:16.837] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:16.844] [[32mDispatcher[0m] Event event_name Finished in 0.006725 seconds
+
+I [2013-10-27 17:54:40.538] [[32mConnectionManager[0m] Connection closed: #<Connection::3ef76a8a8353d3047273>
+
+I [2013-10-27 17:54:40.700] [[32mConnectionManager[0m] Connection opened: #<Connection::13977819ec87ae872cd9>
+
+I [2013-10-27 17:54:40.701] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:54:40.701] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:54:40.701] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:54:40.701] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::13977819ec87ae872cd9>
+
+I [2013-10-27 17:54:40.705] [[32mDispatcher[0m] Event client_connected Finished in 0.0037 seconds
+
+I [2013-10-27 17:54:41.595] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:41.595] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:41.595] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:41.595] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::13977819ec87ae872cd9>
+
+I [2013-10-27 17:54:41.601] [[32mDispatcher[0m] Event event_name Finished in 0.005617 seconds
+
+I [2013-10-27 17:54:42.570] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:54:42.570] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:54:42.570] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:54:42.570] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::13977819ec87ae872cd9>
+
+I [2013-10-27 17:54:42.586] [[32mDispatcher[0m] Event event_name Finished in 0.016081 seconds
+
+I [2013-10-27 17:56:48.530] [[32mConnectionManager[0m] Connection closed: #<Connection::13977819ec87ae872cd9>
+
+I [2013-10-27 17:56:48.258] [[32mConnectionManager[0m] Connection opened: #<Connection::242493dde260ac35df01>
+
+I [2013-10-27 17:56:48.259] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:56:48.259] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:56:48.259] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:56:48.259] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::242493dde260ac35df01>
+
+I [2013-10-27 17:56:48.262] [[32mDispatcher[0m] Event client_connected Finished in 0.00295 seconds
+
+I [2013-10-27 17:57:36.291] [[32mConnectionManager[0m] Connection closed: #<Connection::242493dde260ac35df01>
+
+I [2013-10-27 17:57:36.512] [[32mConnectionManager[0m] Connection opened: #<Connection::97d830dd98311760d8dc>
+
+I [2013-10-27 17:57:36.513] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:57:36.514] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:57:36.514] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:57:36.514] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::97d830dd98311760d8dc>
+
+I [2013-10-27 17:57:36.520] [[32mDispatcher[0m] Event client_connected Finished in 0.006279 seconds
+
+I [2013-10-27 17:57:38.446] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:57:38.446] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:57:38.446] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:57:38.447] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::97d830dd98311760d8dc>
+
+I [2013-10-27 17:57:38.504] [[32mDispatcher[0m] Event event_name Finished in 0.057414 seconds
+
+I [2013-10-27 17:57:40.632] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:57:40.632] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:57:40.632] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:57:40.632] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::97d830dd98311760d8dc>
+
+I [2013-10-27 17:57:40.650] [[32mDispatcher[0m] Event event_name Finished in 0.017406 seconds
+
+I [2013-10-27 17:57:57.886] [[32mConnectionManager[0m] Connection closed: #<Connection::97d830dd98311760d8dc>
+
+I [2013-10-27 17:57:57.998] [[32mConnectionManager[0m] Connection opened: #<Connection::35862be0b54fde57e333>
+
+I [2013-10-27 17:57:57.998] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:57:57.998] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:57:57.998] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:57:57.998] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::35862be0b54fde57e333>
+
+I [2013-10-27 17:57:58.153] [[32mDispatcher[0m] Event client_connected Finished in 0.002495 seconds
+
+I [2013-10-27 17:58:01.888] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:58:01.889] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:58:01.889] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:58:01.889] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::35862be0b54fde57e333>
+
+I [2013-10-27 17:58:01.898] [[32mDispatcher[0m] Event event_name Finished in 0.009478 seconds
+
+I [2013-10-27 17:59:23.508] [[32mConnectionManager[0m] Connection closed: #<Connection::35862be0b54fde57e333>
+
+I [2013-10-27 17:59:23.671] [[32mConnectionManager[0m] Connection opened: #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:23.672] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:59:23.672] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:59:23.672] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:59:23.672] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:23.675] [[32mDispatcher[0m] Event client_connected Finished in 0.0028 seconds
+
+I [2013-10-27 17:59:25.237] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:59:25.237] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:59:25.237] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:59:25.238] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:25.248] [[32mDispatcher[0m] Event event_name Finished in 0.010564 seconds
+
+I [2013-10-27 17:59:26.210] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:59:26.210] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:59:26.210] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:59:26.210] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:26.227] [[32mDispatcher[0m] Event event_name Finished in 0.017454 seconds
+
+I [2013-10-27 17:59:27.543] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:59:27.543] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:59:27.543] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:59:27.543] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:27.553] [[32mDispatcher[0m] Event event_name Finished in 0.010248 seconds
+
+I [2013-10-27 17:59:36.945] [[32mConnectionManager[0m] Connection closed: #<Connection::1fc2882eba8be315c754>
+
+I [2013-10-27 17:59:37.127] [[32mConnectionManager[0m] Connection opened: #<Connection::8eec983cd432fc486a82>
+
+I [2013-10-27 17:59:37.128] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 17:59:37.128] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 17:59:37.128] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 17:59:37.128] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8eec983cd432fc486a82>
+
+I [2013-10-27 17:59:37.131] [[32mDispatcher[0m] Event client_connected Finished in 0.002951 seconds
+
+I [2013-10-27 17:59:38.597] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:59:38.597] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:59:38.597] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:59:38.597] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8eec983cd432fc486a82>
+
+I [2013-10-27 17:59:38.609] [[32mDispatcher[0m] Event event_name Finished in 0.011483 seconds
+
+I [2013-10-27 17:59:39.600] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 17:59:39.600] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 17:59:39.600] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 17:59:39.600] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8eec983cd432fc486a82>
+
+I [2013-10-27 17:59:39.608] [[32mDispatcher[0m] Event event_name Finished in 0.007861999999999999 seconds
+
+I [2013-10-27 18:00:08.743] [[32mConnectionManager[0m] Connection closed: #<Connection::8eec983cd432fc486a82>
+
+I [2013-10-27 18:00:08.907] [[32mConnectionManager[0m] Connection opened: #<Connection::843a1511e5116aad1125>
+
+I [2013-10-27 18:00:08.908] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:00:08.908] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:00:08.908] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:00:08.908] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::843a1511e5116aad1125>
+
+I [2013-10-27 18:00:08.911] [[32mDispatcher[0m] Event client_connected Finished in 0.00305 seconds
+
+I [2013-10-27 18:00:10.158] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:10.158] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:10.158] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:10.158] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::843a1511e5116aad1125>
+
+I [2013-10-27 18:00:10.166] [[32mDispatcher[0m] Event event_name Finished in 0.007467 seconds
+
+I [2013-10-27 18:00:11.265] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:11.265] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:11.265] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:11.265] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::843a1511e5116aad1125>
+
+I [2013-10-27 18:00:11.272] [[32mDispatcher[0m] Event event_name Finished in 0.006547 seconds
+
+I [2013-10-27 18:00:21.206] [[32mConnectionManager[0m] Connection closed: #<Connection::843a1511e5116aad1125>
+
+I [2013-10-27 18:00:21.318] [[32mConnectionManager[0m] Connection opened: #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:21.318] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:00:21.318] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:00:21.318] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:00:21.318] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:21.321] [[32mDispatcher[0m] Event client_connected Finished in 0.002181 seconds
+
+I [2013-10-27 18:00:22.471] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:22.472] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:22.472] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:22.472] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:22.478] [[32mDispatcher[0m] Event event_name Finished in 0.006324 seconds
+
+I [2013-10-27 18:00:23.709] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:23.710] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:23.710] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:23.710] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:23.718] [[32mDispatcher[0m] Event event_name Finished in 0.008487 seconds
+
+I [2013-10-27 18:00:26.752] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:26.752] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:26.752] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:26.752] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:26.763] [[32mDispatcher[0m] Event event_name Finished in 0.010009 seconds
+
+I [2013-10-27 18:00:27.388] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:27.388] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:27.388] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:27.388] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:27.397] [[32mDispatcher[0m] Event event_name Finished in 0.008775 seconds
+
+I [2013-10-27 18:00:38.505] [[32mConnectionManager[0m] Connection closed: #<Connection::9cf9ef972a56ff136142>
+
+I [2013-10-27 18:00:38.625] [[32mConnectionManager[0m] Connection opened: #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:38.626] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:00:38.626] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:00:38.626] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:00:38.626] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:38.628] [[32mDispatcher[0m] Event client_connected Finished in 0.002379 seconds
+
+I [2013-10-27 18:00:40.363] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:40.364] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:40.364] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:40.364] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:40.373] [[32mDispatcher[0m] Event event_name Finished in 0.009358 seconds
+
+I [2013-10-27 18:00:41.299] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:41.299] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:41.299] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:41.299] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:41.308] [[32mDispatcher[0m] Event event_name Finished in 0.008413 seconds
+
+I [2013-10-27 18:00:52.937] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:52.937] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:52.937] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:52.937] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:52.946] [[32mDispatcher[0m] Event event_name Finished in 0.008888999999999999 seconds
+
+I [2013-10-27 18:00:53.841] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:00:53.841] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:00:53.841] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:00:53.841] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:00:53.850] [[32mDispatcher[0m] Event event_name Finished in 0.008425999999999999 seconds
+
+I [2013-10-27 18:01:01.161] [[32mConnectionManager[0m] Connection closed: #<Connection::3cfb8972a799357e0120>
+
+I [2013-10-27 18:01:01.353] [[32mConnectionManager[0m] Connection opened: #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:01.354] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:01:01.354] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:01:01.354] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:01:01.354] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:01.357] [[32mDispatcher[0m] Event client_connected Finished in 0.003283 seconds
+
+I [2013-10-27 18:01:02.657] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:02.657] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:02.657] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:02.657] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:02.669] [[32mDispatcher[0m] Event event_name Finished in 0.011661 seconds
+
+I [2013-10-27 18:01:03.590] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:03.590] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:03.590] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:03.590] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:03.599] [[32mDispatcher[0m] Event event_name Finished in 0.009537 seconds
+
+I [2013-10-27 18:01:04.358] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:04.358] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:04.358] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:04.358] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:04.368] [[32mDispatcher[0m] Event event_name Finished in 0.009665 seconds
+
+I [2013-10-27 18:01:04.783] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:04.784] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:04.784] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:04.784] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:04.790] [[32mDispatcher[0m] Event event_name Finished in 0.006383 seconds
+
+I [2013-10-27 18:01:47.547] [[32mConnectionManager[0m] Connection closed: #<Connection::2e7601e57e7f4f67b150>
+
+I [2013-10-27 18:01:47.709] [[32mConnectionManager[0m] Connection opened: #<Connection::ea400dd994fd06f0d06a>
+
+I [2013-10-27 18:01:47.710] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:01:47.710] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:01:47.710] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:01:47.710] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ea400dd994fd06f0d06a>
+
+I [2013-10-27 18:01:47.712] [[32mDispatcher[0m] Event client_connected Finished in 0.002106 seconds
+
+I [2013-10-27 18:01:48.752] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:48.752] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:48.752] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:48.752] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ea400dd994fd06f0d06a>
+
+I [2013-10-27 18:01:48.761] [[32mDispatcher[0m] Event event_name Finished in 0.009161000000000001 seconds
+
+I [2013-10-27 18:01:51.546] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:51.546] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:51.546] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:51.546] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ea400dd994fd06f0d06a>
+
+I [2013-10-27 18:01:51.554] [[32mDispatcher[0m] Event event_name Finished in 0.007941999999999999 seconds
+
+I [2013-10-27 18:01:56.249] [[32mConnectionManager[0m] Connection closed: #<Connection::ea400dd994fd06f0d06a>
+
+I [2013-10-27 18:01:56.365] [[32mConnectionManager[0m] Connection opened: #<Connection::0556a585d4fa2fdc52c8>
+
+I [2013-10-27 18:01:56.366] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:01:56.366] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:01:56.366] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:01:56.366] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0556a585d4fa2fdc52c8>
+
+I [2013-10-27 18:01:56.368] [[32mDispatcher[0m] Event client_connected Finished in 0.001998 seconds
+
+I [2013-10-27 18:01:58.279] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:01:58.279] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:01:58.279] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:01:58.279] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0556a585d4fa2fdc52c8>
+
+I [2013-10-27 18:01:58.284] [[32mDispatcher[0m] Event event_name Finished in 0.00526 seconds
+
+I [2013-10-27 18:02:02.608] [[32mConnectionManager[0m] Connection closed: #<Connection::0556a585d4fa2fdc52c8>
+
+I [2013-10-27 18:02:02.719] [[32mConnectionManager[0m] Connection opened: #<Connection::1be229d99569c1fa1a29>
+
+I [2013-10-27 18:02:02.720] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:02:02.720] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:02:02.720] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:02:02.720] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1be229d99569c1fa1a29>
+
+I [2013-10-27 18:02:02.724] [[32mDispatcher[0m] Event client_connected Finished in 0.003318 seconds
+
+I [2013-10-27 18:02:04.258] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:04.258] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:04.258] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:04.258] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1be229d99569c1fa1a29>
+
+I [2013-10-27 18:02:04.265] [[32mDispatcher[0m] Event event_name Finished in 0.006722 seconds
+
+I [2013-10-27 18:02:20.921] [[32mConnectionManager[0m] Connection closed: #<Connection::1be229d99569c1fa1a29>
+
+I [2013-10-27 18:02:21.362] [[32mConnectionManager[0m] Connection opened: #<Connection::7efeb750a7328208c8f8>
+
+I [2013-10-27 18:02:21.368] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:02:21.369] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:02:21.370] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:02:21.370] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7efeb750a7328208c8f8>
+
+I [2013-10-27 18:02:21.404] [[32mDispatcher[0m] Event client_connected Finished in 0.003201 seconds
+
+I [2013-10-27 18:02:22.176] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:22.176] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:22.176] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:22.176] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7efeb750a7328208c8f8>
+
+I [2013-10-27 18:02:22.183] [[32mDispatcher[0m] Event event_name Finished in 0.006528 seconds
+
+I [2013-10-27 18:02:23.381] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:23.381] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:23.382] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:23.382] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7efeb750a7328208c8f8>
+
+I [2013-10-27 18:02:23.389] [[32mDispatcher[0m] Event event_name Finished in 0.007111 seconds
+
+I [2013-10-27 18:02:36.195] [[32mConnectionManager[0m] Connection opened: #<Connection::72b4dbd197b498849dd3>
+
+I [2013-10-27 18:02:36.195] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:02:36.195] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:02:36.195] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:02:36.195] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::72b4dbd197b498849dd3>
+
+I [2013-10-27 18:02:36.197] [[32mDispatcher[0m] Event client_connected Finished in 0.00207 seconds
+
+I [2013-10-27 18:02:40.851] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:40.851] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:40.852] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:40.852] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::72b4dbd197b498849dd3>
+
+I [2013-10-27 18:02:40.924] [[32mDispatcher[0m] Event event_name Finished in 0.00712 seconds
+
+I [2013-10-27 18:02:42.962] [[32mConnectionManager[0m] Connection closed: #<Connection::72b4dbd197b498849dd3>
+
+I [2013-10-27 18:02:43.158] [[32mConnectionManager[0m] Connection opened: #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:02:43.158] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:02:43.158] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:02:43.158] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:02:43.158] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:02:43.160] [[32mDispatcher[0m] Event client_connected Finished in 0.002091 seconds
+
+I [2013-10-27 18:02:44.181] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:44.181] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:44.181] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:44.182] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:02:44.189] [[32mDispatcher[0m] Event event_name Finished in 0.007263 seconds
+
+I [2013-10-27 18:02:46.228] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:46.228] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:46.228] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:46.228] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:02:46.235] [[32mDispatcher[0m] Event event_name Finished in 0.007276 seconds
+
+I [2013-10-27 18:02:47.559] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:02:47.559] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:02:47.559] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:02:47.559] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:02:47.566] [[32mDispatcher[0m] Event event_name Finished in 0.006787 seconds
+
+I [2013-10-27 18:03:00.687] [[32mConnectionManager[0m] Connection closed: #<Connection::6d1e984c52fdcfba3401>
+
+I [2013-10-27 18:03:01.795] [[32mConnectionManager[0m] Connection opened: #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:01.795] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:03:01.796] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:03:01.796] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:03:01.796] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:01.798] [[32mDispatcher[0m] Event client_connected Finished in 0.001948 seconds
+
+I [2013-10-27 18:03:02.817] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:02.817] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:02.817] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:02.817] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:02.825] [[32mDispatcher[0m] Event event_name Finished in 0.007685 seconds
+
+I [2013-10-27 18:03:08.183] [[32mConnectionManager[0m] Connection closed: #<Connection::7efeb750a7328208c8f8>
+
+I [2013-10-27 18:03:08.337] [[32mConnectionManager[0m] Connection opened: #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:03:08.337] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:03:08.337] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:03:08.337] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:03:08.337] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:03:08.340] [[32mDispatcher[0m] Event client_connected Finished in 0.002691 seconds
+
+I [2013-10-27 18:03:27.870] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:27.870] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:27.870] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:27.870] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:27.877] [[32mDispatcher[0m] Event event_name Finished in 0.007004 seconds
+
+I [2013-10-27 18:03:29.442] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:29.442] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:29.442] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:29.442] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:29.448] [[32mDispatcher[0m] Event event_name Finished in 0.005889 seconds
+
+I [2013-10-27 18:03:31.904] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:31.904] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:31.905] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:31.905] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:31.911] [[32mDispatcher[0m] Event event_name Finished in 0.006829 seconds
+
+I [2013-10-27 18:03:33.436] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:33.437] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:33.437] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:33.437] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:33.443] [[32mDispatcher[0m] Event event_name Finished in 0.006427 seconds
+
+I [2013-10-27 18:03:35.223] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:35.232] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:35.236] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:35.240] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:35.934] [[32mDispatcher[0m] Event event_name Finished in 0.006818 seconds
+
+I [2013-10-27 18:03:37.811] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:37.811] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:37.811] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:37.811] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:37.818] [[32mDispatcher[0m] Event event_name Finished in 0.007086 seconds
+
+I [2013-10-27 18:03:39.935] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:39.935] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:39.935] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:39.935] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:03:39.943] [[32mDispatcher[0m] Event event_name Finished in 0.008337000000000001 seconds
+
+I [2013-10-27 18:03:40.834] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:40.834] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:40.834] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:40.834] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:03:40.841] [[32mDispatcher[0m] Event event_name Finished in 0.006638 seconds
+
+I [2013-10-27 18:03:41.368] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:41.368] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:41.368] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:41.368] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:03:41.375] [[32mDispatcher[0m] Event event_name Finished in 0.006816 seconds
+
+I [2013-10-27 18:03:43.134] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:03:43.134] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:03:43.134] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:03:43.134] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:03:43.173] [[32mDispatcher[0m] Event event_name Finished in 0.038936 seconds
+
+I [2013-10-27 18:07:32.553] [[32mConnectionManager[0m] Connection closed: #<Connection::409b95fba08d6d4ffbce>
+
+I [2013-10-27 18:11:00.516] [[32mConnectionManager[0m] Connection opened: #<Connection::b0817afc19c02e05a407>
+
+I [2013-10-27 18:11:00.521] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:11:00.521] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:11:00.522] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:11:00.522] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b0817afc19c02e05a407>
+
+I [2013-10-27 18:11:00.549] [[32mDispatcher[0m] Event client_connected Finished in 0.002567 seconds
+
+I [2013-10-27 18:11:00.480] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:00.480] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:00.480] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:00.480] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b0817afc19c02e05a407>
+
+I [2013-10-27 18:11:00.488] [[32mDispatcher[0m] Event event_name Finished in 0.007042 seconds
+
+I [2013-10-27 18:11:02.373] [[32mConnectionManager[0m] Connection closed: #<Connection::b0817afc19c02e05a407>
+
+I [2013-10-27 18:11:03.380] [[32mConnectionManager[0m] Connection opened: #<Connection::2ca54f36fcbd0ec5f47f>
+
+I [2013-10-27 18:11:03.381] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:11:03.381] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:11:03.381] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:11:03.381] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2ca54f36fcbd0ec5f47f>
+
+I [2013-10-27 18:11:03.383] [[32mDispatcher[0m] Event client_connected Finished in 0.002536 seconds
+
+I [2013-10-27 18:11:04.503] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:04.503] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:04.503] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:04.503] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2ca54f36fcbd0ec5f47f>
+
+I [2013-10-27 18:11:04.510] [[32mDispatcher[0m] Event event_name Finished in 0.006781 seconds
+
+I [2013-10-27 18:11:09.994] [[32mConnectionManager[0m] Connection closed: #<Connection::8d006fdbdfc9e7ce9b86>
+
+I [2013-10-27 18:11:10.163] [[32mConnectionManager[0m] Connection opened: #<Connection::e7287ce3dec4e8b95547>
+
+I [2013-10-27 18:11:10.164] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:11:10.164] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:11:10.164] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:11:10.164] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e7287ce3dec4e8b95547>
+
+I [2013-10-27 18:11:10.166] [[32mDispatcher[0m] Event client_connected Finished in 0.002172 seconds
+
+I [2013-10-27 18:11:10.972] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:10.972] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:10.972] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:10.972] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e7287ce3dec4e8b95547>
+
+I [2013-10-27 18:11:10.978] [[32mDispatcher[0m] Event event_name Finished in 0.006227 seconds
+
+I [2013-10-27 18:11:11.985] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:11.985] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:11.985] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:11.985] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::e7287ce3dec4e8b95547>
+
+I [2013-10-27 18:11:11.993] [[32mDispatcher[0m] Event event_name Finished in 0.00718 seconds
+
+I [2013-10-27 18:11:25.348] [[32mConnectionManager[0m] Connection closed: #<Connection::e7287ce3dec4e8b95547>
+
+I [2013-10-27 18:11:25.446] [[32mConnectionManager[0m] Connection opened: #<Connection::317aa46f2bbf0987ea09>
+
+I [2013-10-27 18:11:25.447] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:11:25.447] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:11:25.447] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:11:25.447] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::317aa46f2bbf0987ea09>
+
+I [2013-10-27 18:11:25.449] [[32mDispatcher[0m] Event client_connected Finished in 0.002093 seconds
+
+I [2013-10-27 18:11:26.663] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:26.663] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:26.663] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:26.663] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::317aa46f2bbf0987ea09>
+
+I [2013-10-27 18:11:26.670] [[32mDispatcher[0m] Event event_name Finished in 0.006724 seconds
+
+I [2013-10-27 18:11:27.639] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:11:27.639] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:11:27.639] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:11:27.639] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::317aa46f2bbf0987ea09>
+
+I [2013-10-27 18:11:27.646] [[32mDispatcher[0m] Event event_name Finished in 0.00656 seconds
+
+I [2013-10-27 18:13:55.561] [[32mConnectionManager[0m] Connection closed: #<Connection::317aa46f2bbf0987ea09>
+
+I [2013-10-27 18:13:55.719] [[32mConnectionManager[0m] Connection opened: #<Connection::3cdb87533b953b64bd53>
+
+I [2013-10-27 18:13:55.720] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:13:55.720] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:13:55.720] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:13:55.720] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cdb87533b953b64bd53>
+
+I [2013-10-27 18:13:55.723] [[32mDispatcher[0m] Event client_connected Finished in 0.002381 seconds
+
+I [2013-10-27 18:13:56.941] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:13:56.941] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:13:56.941] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:13:56.941] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::3cdb87533b953b64bd53>
+
+I [2013-10-27 18:13:56.949] [[32mDispatcher[0m] Event event_name Finished in 0.007649 seconds
+
+I [2013-10-27 18:14:25.188] [[32mConnectionManager[0m] Connection closed: #<Connection::3cdb87533b953b64bd53>
+
+I [2013-10-27 18:14:25.351] [[32mConnectionManager[0m] Connection opened: #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:25.351] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:14:25.351] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:14:25.351] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:14:25.351] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:25.355] [[32mDispatcher[0m] Event client_connected Finished in 0.003535 seconds
+
+I [2013-10-27 18:14:26.519] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:26.519] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:26.519] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:26.520] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:26.529] [[32mDispatcher[0m] Event event_name Finished in 0.008892000000000001 seconds
+
+I [2013-10-27 18:14:27.248] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:27.248] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:27.249] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:27.249] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:27.256] [[32mDispatcher[0m] Event event_name Finished in 0.007281 seconds
+
+I [2013-10-27 18:14:27.858] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:27.858] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:27.858] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:27.858] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:27.866] [[32mDispatcher[0m] Event event_name Finished in 0.007069 seconds
+
+I [2013-10-27 18:14:28.847] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:28.847] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:28.847] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:28.847] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:28.853] [[32mDispatcher[0m] Event event_name Finished in 0.00612 seconds
+
+I [2013-10-27 18:14:29.320] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:29.320] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:29.320] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:29.320] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:29.327] [[32mDispatcher[0m] Event event_name Finished in 0.006885 seconds
+
+I [2013-10-27 18:14:29.448] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:29.448] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:29.448] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:29.448] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:29.454] [[32mDispatcher[0m] Event event_name Finished in 0.00555 seconds
+
+I [2013-10-27 18:14:29.584] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:29.584] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:29.584] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:29.584] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:29.591] [[32mDispatcher[0m] Event event_name Finished in 0.006779 seconds
+
+I [2013-10-27 18:14:29.704] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:29.704] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:29.704] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:29.704] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:29.711] [[32mDispatcher[0m] Event event_name Finished in 0.007051 seconds
+
+I [2013-10-27 18:14:29.848] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:29.848] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:29.848] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:29.848] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:29.855] [[32mDispatcher[0m] Event event_name Finished in 0.006946 seconds
+
+I [2013-10-27 18:14:30.549] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:14:30.549] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:14:30.549] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:14:30.549] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:14:30.556] [[32mDispatcher[0m] Event event_name Finished in 0.006977 seconds
+
+I [2013-10-27 18:16:27.559] [[32mConnectionManager[0m] Connection closed: #<Connection::78fb64cde442d0a0ba43>
+
+I [2013-10-27 18:16:27.742] [[32mConnectionManager[0m] Connection opened: #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:27.743] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:16:27.743] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:16:27.743] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:16:27.743] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:27.746] [[32mDispatcher[0m] Event client_connected Finished in 0.002446 seconds
+
+I [2013-10-27 18:16:28.878] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:28.878] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:28.878] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:28.878] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:28.885] [[32mDispatcher[0m] Event event_name Finished in 0.006891 seconds
+
+I [2013-10-27 18:16:29.808] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:29.808] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:29.808] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:29.808] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:29.815] [[32mDispatcher[0m] Event event_name Finished in 0.006646 seconds
+
+I [2013-10-27 18:16:35.316] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:35.316] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:35.316] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:35.316] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:35.326] [[32mDispatcher[0m] Event event_name Finished in 0.009493 seconds
+
+I [2013-10-27 18:16:35.700] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:35.701] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:35.701] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:35.701] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:35.708] [[32mDispatcher[0m] Event event_name Finished in 0.00727 seconds
+
+I [2013-10-27 18:16:35.836] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:35.836] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:35.837] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:35.837] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:35.844] [[32mDispatcher[0m] Event event_name Finished in 0.007078 seconds
+
+I [2013-10-27 18:16:35.972] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:35.973] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:35.973] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:35.973] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:35.980] [[32mDispatcher[0m] Event event_name Finished in 0.006871 seconds
+
+I [2013-10-27 18:16:36.101] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:16:36.101] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:16:36.101] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:16:36.101] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:16:36.108] [[32mDispatcher[0m] Event event_name Finished in 0.007023 seconds
+
+I [2013-10-27 18:17:12.983] [[32mConnectionManager[0m] Connection closed: #<Connection::8809592b8a6d54d3e0cd>
+
+I [2013-10-27 18:17:13.219] [[32mConnectionManager[0m] Connection opened: #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:13.220] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:17:13.220] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:17:13.220] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:17:13.220] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:13.223] [[32mDispatcher[0m] Event client_connected Finished in 0.003272 seconds
+
+I [2013-10-27 18:17:14.210] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:14.210] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:14.210] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:14.210] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:14.215] [[32mDispatcher[0m] Event event_name Finished in 0.005516 seconds
+
+I [2013-10-27 18:17:15.461] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:15.462] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:15.462] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:15.462] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:15.469] [[32mDispatcher[0m] Event event_name Finished in 0.006803 seconds
+
+I [2013-10-27 18:17:16.559] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:16.560] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:16.560] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:16.561] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:16.631] [[32mDispatcher[0m] Event event_name Finished in 0.006929 seconds
+
+I [2013-10-27 18:17:16.543] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:16.543] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:16.543] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:16.543] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:16.551] [[32mDispatcher[0m] Event event_name Finished in 0.007505 seconds
+
+I [2013-10-27 18:17:17.455] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:17.455] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:17.455] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:17.455] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:17.463] [[32mDispatcher[0m] Event event_name Finished in 0.007208 seconds
+
+I [2013-10-27 18:17:19.109] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:19.109] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:19.109] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:19.109] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:19.115] [[32mDispatcher[0m] Event event_name Finished in 0.006511 seconds
+
+I [2013-10-27 18:17:56.336] [[32mConnectionManager[0m] Connection closed: #<Connection::b7279a976bb63a4205ba>
+
+I [2013-10-27 18:17:56.564] [[32mConnectionManager[0m] Connection opened: #<Connection::7fabf281872e64a461b6>
+
+I [2013-10-27 18:17:56.565] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:17:56.565] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:17:56.565] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:17:56.565] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7fabf281872e64a461b6>
+
+I [2013-10-27 18:17:56.569] [[32mDispatcher[0m] Event client_connected Finished in 0.003066 seconds
+
+I [2013-10-27 18:17:57.489] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:57.489] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:57.489] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:57.489] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7fabf281872e64a461b6>
+
+I [2013-10-27 18:17:57.496] [[32mDispatcher[0m] Event event_name Finished in 0.006427 seconds
+
+I [2013-10-27 18:17:57.914] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:17:57.914] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:17:57.914] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:17:57.914] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7fabf281872e64a461b6>
+
+I [2013-10-27 18:17:57.923] [[32mDispatcher[0m] Event event_name Finished in 0.008527 seconds
+
+I [2013-10-27 18:18:03.134] [[32mConnectionManager[0m] Connection closed: #<Connection::7fabf281872e64a461b6>
+
+I [2013-10-27 18:18:03.391] [[32mConnectionManager[0m] Connection opened: #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:03.392] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:18:03.392] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:18:03.392] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:18:03.392] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:03.396] [[32mDispatcher[0m] Event client_connected Finished in 0.003652 seconds
+
+I [2013-10-27 18:18:03.913] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:03.913] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:03.913] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:03.913] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:03.920] [[32mDispatcher[0m] Event event_name Finished in 0.007197 seconds
+
+I [2013-10-27 18:18:04.290] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:04.290] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:04.290] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:04.290] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:04.327] [[32mDispatcher[0m] Event event_name Finished in 0.036751 seconds
+
+I [2013-10-27 18:18:04.418] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:04.418] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:04.418] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:04.418] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:04.423] [[32mDispatcher[0m] Event event_name Finished in 0.005111 seconds
+
+I [2013-10-27 18:18:33.519] [[32mConnectionManager[0m] Connection closed: #<Connection::8e841f8e1dde24fb5b07>
+
+I [2013-10-27 18:18:33.757] [[32mConnectionManager[0m] Connection opened: #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:18:33.757] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:18:33.757] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:18:33.757] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:18:33.757] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:18:33.760] [[32mDispatcher[0m] Event client_connected Finished in 0.002781 seconds
+
+I [2013-10-27 18:18:34.535] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:34.535] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:34.535] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:34.535] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:18:34.541] [[32mDispatcher[0m] Event event_name Finished in 0.005894 seconds
+
+I [2013-10-27 18:18:35.168] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:35.168] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:35.168] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:35.168] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:18:35.175] [[32mDispatcher[0m] Event event_name Finished in 0.006231 seconds
+
+I [2013-10-27 18:18:35.734] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:18:35.734] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:18:35.734] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:18:35.734] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:18:35.741] [[32mDispatcher[0m] Event event_name Finished in 0.006793 seconds
+
+I [2013-10-27 18:19:25.576] [[32mConnectionManager[0m] Connection closed: #<Connection::40a6c0099ebe11070f55>
+
+I [2013-10-27 18:19:25.834] [[32mConnectionManager[0m] Connection opened: #<Connection::b7e8a03873498cd75ccd>
+
+I [2013-10-27 18:19:25.834] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:19:25.835] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:19:25.835] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:19:25.835] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7e8a03873498cd75ccd>
+
+I [2013-10-27 18:19:25.839] [[32mDispatcher[0m] Event client_connected Finished in 0.003913 seconds
+
+I [2013-10-27 18:20:35.964] [[32mConnectionManager[0m] Connection closed: #<Connection::b7e8a03873498cd75ccd>
+
+I [2013-10-27 18:20:46.458] [[32mConnectionManager[0m] Connection opened: #<Connection::07a31b9568ce66b7b5dd>
+
+I [2013-10-27 18:20:46.459] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:20:46.459] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:20:46.459] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:20:46.459] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::07a31b9568ce66b7b5dd>
+
+I [2013-10-27 18:20:46.462] [[32mDispatcher[0m] Event client_connected Finished in 0.002763 seconds
+
+I [2013-10-27 18:21:27.846] [[32mConnectionManager[0m] Connection closed: #<Connection::07a31b9568ce66b7b5dd>
+
+I [2013-10-27 18:21:28.169] [[32mConnectionManager[0m] Connection opened: #<Connection::bd5bd7a7b2694c2c0a4e>
+
+I [2013-10-27 18:21:28.170] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:21:28.170] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:21:28.170] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:21:28.170] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bd5bd7a7b2694c2c0a4e>
+
+I [2013-10-27 18:21:28.197] [[32mDispatcher[0m] Event client_connected Finished in 0.025969 seconds
+
+I [2013-10-27 18:22:04.213] [[32mConnectionManager[0m] Connection closed: #<Connection::bd5bd7a7b2694c2c0a4e>
+
+I [2013-10-27 18:22:04.239] [[32mConnectionManager[0m] Connection opened: #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:04.240] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:22:04.240] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:22:04.240] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:22:04.240] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:04.253] [[32mDispatcher[0m] Event client_connected Finished in 0.010965 seconds
+
+I [2013-10-27 18:22:05.419] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:05.419] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:05.419] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:05.419] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:05.427] [[32mDispatcher[0m] Event event_name Finished in 0.007271 seconds
+
+I [2013-10-27 18:22:05.656] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:05.656] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:05.656] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:05.656] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:05.665] [[32mDispatcher[0m] Event event_name Finished in 0.008278000000000001 seconds
+
+I [2013-10-27 18:22:05.855] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:05.855] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:05.855] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:05.855] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:05.862] [[32mDispatcher[0m] Event event_name Finished in 0.00636 seconds
+
+I [2013-10-27 18:22:32.716] [[32mConnectionManager[0m] Connection closed: #<Connection::242248d9c966112b83ab>
+
+I [2013-10-27 18:22:32.925] [[32mConnectionManager[0m] Connection opened: #<Connection::425b41b2694ea518886d>
+
+I [2013-10-27 18:22:32.926] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:22:32.926] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:22:32.926] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:22:32.926] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::425b41b2694ea518886d>
+
+I [2013-10-27 18:22:32.931] [[32mDispatcher[0m] Event client_connected Finished in 0.00418 seconds
+
+I [2013-10-27 18:22:33.820] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:33.820] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:33.820] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:33.820] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::425b41b2694ea518886d>
+
+I [2013-10-27 18:22:33.826] [[32mDispatcher[0m] Event event_name Finished in 0.006509 seconds
+
+I [2013-10-27 18:22:36.265] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:36.265] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:36.265] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:36.265] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::425b41b2694ea518886d>
+
+I [2013-10-27 18:22:36.272] [[32mDispatcher[0m] Event event_name Finished in 0.00662 seconds
+
+I [2013-10-27 18:22:40.316] [[32mConnectionManager[0m] Connection closed: #<Connection::2ca54f36fcbd0ec5f47f>
+
+I [2013-10-27 18:22:41.282] [[32mConnectionManager[0m] Connection opened: #<Connection::81627f6d915c5e5d03a5>
+
+I [2013-10-27 18:22:41.282] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:22:41.282] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:22:41.282] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:22:41.282] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::81627f6d915c5e5d03a5>
+
+I [2013-10-27 18:22:41.285] [[32mDispatcher[0m] Event client_connected Finished in 0.002065 seconds
+
+I [2013-10-27 18:22:42.722] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:22:42.722] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:22:42.722] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:22:42.722] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::81627f6d915c5e5d03a5>
+
+I [2013-10-27 18:22:42.729] [[32mDispatcher[0m] Event event_name Finished in 0.006484 seconds
+
+I [2013-10-27 18:23:00.535] [[32mConnectionManager[0m] Connection closed: #<Connection::425b41b2694ea518886d>
+
+I [2013-10-27 18:23:00.843] [[32mConnectionManager[0m] Connection opened: #<Connection::1b810d35989bc34fcfd5>
+
+I [2013-10-27 18:23:00.844] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:23:00.844] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:23:00.844] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:23:00.844] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1b810d35989bc34fcfd5>
+
+I [2013-10-27 18:23:00.848] [[32mDispatcher[0m] Event client_connected Finished in 0.003707 seconds
+
+I [2013-10-27 18:23:01.504] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:23:01.504] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:23:01.504] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:23:01.504] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::1b810d35989bc34fcfd5>
+
+I [2013-10-27 18:23:01.511] [[32mDispatcher[0m] Event event_name Finished in 0.007409 seconds
+
+I [2013-10-27 18:23:06.188] [[32mConnectionManager[0m] Connection closed: #<Connection::81627f6d915c5e5d03a5>
+
+I [2013-10-27 18:23:07.293] [[32mConnectionManager[0m] Connection opened: #<Connection::fbb160ec955e05ae4d4c>
+
+I [2013-10-27 18:23:07.293] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:23:07.293] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:23:07.293] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:23:07.293] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::fbb160ec955e05ae4d4c>
+
+I [2013-10-27 18:23:07.295] [[32mDispatcher[0m] Event client_connected Finished in 0.002127 seconds
+
+I [2013-10-27 18:23:08.724] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:23:08.724] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:23:08.724] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:23:08.724] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::fbb160ec955e05ae4d4c>
+
+I [2013-10-27 18:23:08.732] [[32mDispatcher[0m] Event event_name Finished in 0.00731 seconds
+
+I [2013-10-27 18:23:24.869] [[32mConnectionManager[0m] Connection closed: #<Connection::1b810d35989bc34fcfd5>
+
+I [2013-10-27 18:23:25.841] [[32mConnectionManager[0m] Connection opened: #<Connection::2cd0ba07c7562c5fe37a>
+
+I [2013-10-27 18:23:25.847] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:23:25.848] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:23:25.848] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:23:25.849] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2cd0ba07c7562c5fe37a>
+
+I [2013-10-27 18:23:25.893] [[32mDispatcher[0m] Event client_connected Finished in 0.00409 seconds
+
+I [2013-10-27 18:23:26.681] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:23:26.682] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:23:26.683] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:23:26.683] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2cd0ba07c7562c5fe37a>
+
+I [2013-10-27 18:23:26.748] [[32mDispatcher[0m] Event event_name Finished in 0.006375 seconds
+
+I [2013-10-27 18:23:28.638] [[32mConnectionManager[0m] Connection closed: #<Connection::fbb160ec955e05ae4d4c>
+
+I [2013-10-27 18:23:29.709] [[32mConnectionManager[0m] Connection opened: #<Connection::c406aa162c22ea423b48>
+
+I [2013-10-27 18:23:29.709] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:23:29.709] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:23:29.709] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:23:29.709] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c406aa162c22ea423b48>
+
+I [2013-10-27 18:23:29.711] [[32mDispatcher[0m] Event client_connected Finished in 0.002011 seconds
+
+I [2013-10-27 18:23:30.846] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:23:30.846] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:23:30.846] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:23:30.846] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c406aa162c22ea423b48>
+
+I [2013-10-27 18:23:30.853] [[32mDispatcher[0m] Event event_name Finished in 0.007029 seconds
+
+I [2013-10-27 18:24:50.259] [[32mConnectionManager[0m] Connection closed: #<Connection::2cd0ba07c7562c5fe37a>
+
+I [2013-10-27 18:24:50.567] [[32mConnectionManager[0m] Connection opened: #<Connection::2bda2e10e482eaf9d931>
+
+I [2013-10-27 18:24:50.567] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:24:50.567] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:24:50.567] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:24:50.567] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2bda2e10e482eaf9d931>
+
+I [2013-10-27 18:24:50.572] [[32mDispatcher[0m] Event client_connected Finished in 0.004307 seconds
+
+I [2013-10-27 18:24:51.104] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:24:51.104] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:24:51.104] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:24:51.104] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2bda2e10e482eaf9d931>
+
+I [2013-10-27 18:24:51.112] [[32mDispatcher[0m] Event event_name Finished in 0.00749 seconds
+
+I [2013-10-27 18:24:52.877] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:24:52.877] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:24:52.877] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:24:52.877] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::2bda2e10e482eaf9d931>
+
+I [2013-10-27 18:24:52.884] [[32mDispatcher[0m] Event event_name Finished in 0.006938 seconds
+
+I [2013-10-27 18:24:55.225] [[32mConnectionManager[0m] Connection closed: #<Connection::c406aa162c22ea423b48>
+
+I [2013-10-27 18:24:56.788] [[32mConnectionManager[0m] Connection opened: #<Connection::fd9f3d6e663cb7a744e5>
+
+I [2013-10-27 18:24:56.788] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:24:56.788] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:24:56.788] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:24:56.788] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::fd9f3d6e663cb7a744e5>
+
+I [2013-10-27 18:24:56.791] [[32mDispatcher[0m] Event client_connected Finished in 0.002016 seconds
+
+I [2013-10-27 18:24:57.905] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:24:57.905] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:24:57.905] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:24:57.905] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::fd9f3d6e663cb7a744e5>
+
+I [2013-10-27 18:24:57.913] [[32mDispatcher[0m] Event event_name Finished in 0.007096 seconds
+
+I [2013-10-27 18:25:02.614] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:25:02.614] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:25:02.614] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:25:02.614] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::fd9f3d6e663cb7a744e5>
+
+I [2013-10-27 18:25:02.622] [[32mDispatcher[0m] Event event_name Finished in 0.007375 seconds
+
+I [2013-10-27 18:25:53.788] [[32mConnectionManager[0m] Connection closed: #<Connection::2bda2e10e482eaf9d931>
+
+I [2013-10-27 18:25:53.390] [[32mConnectionManager[0m] Connection opened: #<Connection::366c90ae2f0d477ff94f>
+
+I [2013-10-27 18:25:53.391] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:25:53.391] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:25:53.391] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:25:53.391] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::366c90ae2f0d477ff94f>
+
+I [2013-10-27 18:25:53.396] [[32mDispatcher[0m] Event client_connected Finished in 0.004354 seconds
+
+I [2013-10-27 18:25:54.961] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:25:54.962] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:25:54.963] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:25:54.963] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::366c90ae2f0d477ff94f>
+
+I [2013-10-27 18:25:54.113] [[32mDispatcher[0m] Event event_name Finished in 0.016664 seconds
+
+I [2013-10-27 18:26:03.464] [[32mConnectionManager[0m] Connection closed: #<Connection::366c90ae2f0d477ff94f>
+
+I [2013-10-27 18:26:03.777] [[32mConnectionManager[0m] Connection opened: #<Connection::33b56cebe8c6704b8426>
+
+I [2013-10-27 18:26:03.778] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:26:03.778] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:26:03.778] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:26:03.778] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::33b56cebe8c6704b8426>
+
+I [2013-10-27 18:26:03.783] [[32mDispatcher[0m] Event client_connected Finished in 0.004899 seconds
+
+I [2013-10-27 18:26:04.308] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:26:04.308] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:26:04.308] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:26:04.308] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::33b56cebe8c6704b8426>
+
+I [2013-10-27 18:26:04.315] [[32mDispatcher[0m] Event event_name Finished in 0.007087 seconds
+
+I [2013-10-27 18:26:31.468] [[32mConnectionManager[0m] Connection closed: #<Connection::33b56cebe8c6704b8426>
+
+I [2013-10-27 18:26:31.776] [[32mConnectionManager[0m] Connection opened: #<Connection::075f88806115fb009f17>
+
+I [2013-10-27 18:26:31.777] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:26:31.777] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:26:31.777] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:26:31.777] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::075f88806115fb009f17>
+
+I [2013-10-27 18:26:31.781] [[32mDispatcher[0m] Event client_connected Finished in 0.003528 seconds
+
+I [2013-10-27 18:26:32.724] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:26:32.725] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:26:32.725] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:26:32.725] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::075f88806115fb009f17>
+
+I [2013-10-27 18:26:32.732] [[32mDispatcher[0m] Event event_name Finished in 0.007358 seconds
+
+I [2013-10-27 18:26:51.174] [[32mConnectionManager[0m] Connection closed: #<Connection::075f88806115fb009f17>
+
+I [2013-10-27 18:26:51.492] [[32mConnectionManager[0m] Connection opened: #<Connection::68f15c17ac395c079fdd>
+
+I [2013-10-27 18:26:51.493] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:26:51.493] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:26:51.493] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:26:51.494] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::68f15c17ac395c079fdd>
+
+I [2013-10-27 18:26:51.498] [[32mDispatcher[0m] Event client_connected Finished in 0.004185 seconds
+
+I [2013-10-27 18:26:52.204] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:26:52.204] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:26:52.204] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:26:52.204] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::68f15c17ac395c079fdd>
+
+I [2013-10-27 18:26:52.212] [[32mDispatcher[0m] Event event_name Finished in 0.007754 seconds
+
+I [2013-10-27 18:26:53.429] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:26:53.429] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:26:53.429] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:26:53.429] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::68f15c17ac395c079fdd>
+
+I [2013-10-27 18:26:53.435] [[32mDispatcher[0m] Event event_name Finished in 0.006346 seconds
+
+I [2013-10-27 18:26:55.901] [[32mConnectionManager[0m] Connection closed: #<Connection::fd9f3d6e663cb7a744e5>
+
+I [2013-10-27 18:26:57.989] [[32mConnectionManager[0m] Connection opened: #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:26:57.993] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:26:57.993] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:26:57.994] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:26:57.994] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:26:57.101] [[32mDispatcher[0m] Event client_connected Finished in 0.002055 seconds
+
+I [2013-10-27 18:26:58.518] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:26:58.518] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:26:58.518] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:26:58.518] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:26:58.525] [[32mDispatcher[0m] Event event_name Finished in 0.006763 seconds
+
+I [2013-10-27 18:27:00.571] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:00.571] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:00.571] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:00.571] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:00.577] [[32mDispatcher[0m] Event event_name Finished in 0.005474 seconds
+
+I [2013-10-27 18:27:02.272] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:02.273] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:02.273] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:02.273] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:02.279] [[32mDispatcher[0m] Event event_name Finished in 0.006595 seconds
+
+I [2013-10-27 18:27:03.639] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:03.640] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:03.640] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:03.640] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:03.647] [[32mDispatcher[0m] Event event_name Finished in 0.006887 seconds
+
+I [2013-10-27 18:27:09.996] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:09.996] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:09.996] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:09.996] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:10.362] [[32mDispatcher[0m] Event event_name Finished in 0.006711 seconds
+
+I [2013-10-27 18:27:11.831] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:11.831] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:11.831] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:11.831] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:11.838] [[32mDispatcher[0m] Event event_name Finished in 0.006944 seconds
+
+I [2013-10-27 18:27:17.968] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:17.968] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:17.968] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:17.968] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:17.975] [[32mDispatcher[0m] Event event_name Finished in 0.006966 seconds
+
+I [2013-10-27 18:27:51.171] [[32mConnectionManager[0m] Connection closed: #<Connection::68f15c17ac395c079fdd>
+
+I [2013-10-27 18:27:51.395] [[32mConnectionManager[0m] Connection opened: #<Connection::f37d83823caf20bcb76d>
+
+I [2013-10-27 18:27:51.396] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:27:51.396] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:27:51.396] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:27:51.396] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f37d83823caf20bcb76d>
+
+I [2013-10-27 18:27:51.399] [[32mDispatcher[0m] Event client_connected Finished in 0.003245 seconds
+
+I [2013-10-27 18:27:53.455] [[32mConnectionManager[0m] Connection closed: #<Connection::21343b2f2051717c2444>
+
+I [2013-10-27 18:27:54.461] [[32mConnectionManager[0m] Connection opened: #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:27:54.462] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:27:54.462] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:27:54.462] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:27:54.462] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:27:54.464] [[32mDispatcher[0m] Event client_connected Finished in 0.002286 seconds
+
+I [2013-10-27 18:27:59.960] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:27:59.960] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:27:59.960] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:27:59.960] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:27:59.967] [[32mDispatcher[0m] Event event_name Finished in 0.006778 seconds
+
+I [2013-10-27 18:28:07.952] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:07.952] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:07.952] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:07.952] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:07.959] [[32mDispatcher[0m] Event event_name Finished in 0.007324 seconds
+
+I [2013-10-27 18:28:09.381] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:09.381] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:09.381] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:09.381] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:09.388] [[32mDispatcher[0m] Event event_name Finished in 0.006471 seconds
+
+I [2013-10-27 18:28:10.790] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:10.790] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:10.791] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:10.791] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:10.798] [[32mDispatcher[0m] Event event_name Finished in 0.006849 seconds
+
+I [2013-10-27 18:28:12.249] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:12.249] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:12.249] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:12.249] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:12.256] [[32mDispatcher[0m] Event event_name Finished in 0.006832 seconds
+
+I [2013-10-27 18:28:14.297] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:14.297] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:14.297] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:14.297] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:14.304] [[32mDispatcher[0m] Event event_name Finished in 0.006864 seconds
+
+I [2013-10-27 18:28:15.935] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:15.935] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:15.935] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:15.935] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:15.942] [[32mDispatcher[0m] Event event_name Finished in 0.006757 seconds
+
+I [2013-10-27 18:28:26.383] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:26.383] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:26.383] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:26.383] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:26.390] [[32mDispatcher[0m] Event event_name Finished in 0.006894 seconds
+
+I [2013-10-27 18:28:45.371] [[32mConnectionManager[0m] Connection closed: #<Connection::f37d83823caf20bcb76d>
+
+I [2013-10-27 18:28:45.595] [[32mConnectionManager[0m] Connection opened: #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:28:45.597] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:28:45.597] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:28:45.597] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:28:45.597] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:28:45.601] [[32mDispatcher[0m] Event client_connected Finished in 0.004178 seconds
+
+I [2013-10-27 18:28:46.445] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:46.445] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:46.445] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:46.445] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:28:46.452] [[32mDispatcher[0m] Event event_name Finished in 0.006442 seconds
+
+I [2013-10-27 18:28:47.566] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:47.566] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:47.566] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:47.566] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:28:47.574] [[32mDispatcher[0m] Event event_name Finished in 0.006929 seconds
+
+I [2013-10-27 18:28:48.780] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:48.780] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:48.780] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:48.780] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:28:48.787] [[32mDispatcher[0m] Event event_name Finished in 0.006538 seconds
+
+I [2013-10-27 18:28:50.752] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:50.753] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:50.753] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:50.753] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:50.760] [[32mDispatcher[0m] Event event_name Finished in 0.006774 seconds
+
+I [2013-10-27 18:28:52.364] [[32mConnectionManager[0m] Connection closed: #<Connection::23a1ac80e89d08219d2a>
+
+I [2013-10-27 18:28:53.152] [[32mConnectionManager[0m] Connection opened: #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:28:53.152] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:28:53.153] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:28:53.153] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:28:53.153] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:28:53.156] [[32mDispatcher[0m] Event client_connected Finished in 0.003022 seconds
+
+I [2013-10-27 18:28:54.636] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:28:54.636] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:28:54.636] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:28:54.636] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:28:54.644] [[32mDispatcher[0m] Event event_name Finished in 0.007252 seconds
+
+I [2013-10-27 18:29:19.239] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:19.239] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:19.240] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:19.240] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:19.314] [[32mDispatcher[0m] Event event_name Finished in 0.007275 seconds
+
+I [2013-10-27 18:29:19.835] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:19.835] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:19.835] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:19.835] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:19.842] [[32mDispatcher[0m] Event event_name Finished in 0.006755 seconds
+
+I [2013-10-27 18:29:20.955] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:20.955] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:20.955] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:20.955] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:20.962] [[32mDispatcher[0m] Event event_name Finished in 0.006984 seconds
+
+I [2013-10-27 18:29:22.431] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:22.431] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:22.431] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:22.431] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:22.438] [[32mDispatcher[0m] Event event_name Finished in 0.006877 seconds
+
+I [2013-10-27 18:29:23.279] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:23.279] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:23.279] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:23.279] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:23.285] [[32mDispatcher[0m] Event event_name Finished in 0.005273 seconds
+
+I [2013-10-27 18:29:24.342] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:24.342] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:24.342] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:24.342] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:24.347] [[32mDispatcher[0m] Event event_name Finished in 0.004644 seconds
+
+I [2013-10-27 18:29:41.111] [[32mConnectionManager[0m] Connection closed: #<Connection::d8aaa7cde9b87cfcafc8>
+
+I [2013-10-27 18:29:41.323] [[32mConnectionManager[0m] Connection opened: #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:29:41.324] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:29:41.324] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:29:41.324] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:29:41.324] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:29:41.327] [[32mDispatcher[0m] Event client_connected Finished in 0.002875 seconds
+
+I [2013-10-27 18:29:43.137] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:43.137] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:43.137] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:43.137] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:29:43.145] [[32mDispatcher[0m] Event event_name Finished in 0.008149999999999999 seconds
+
+I [2013-10-27 18:29:44.383] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:44.384] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:44.384] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:44.384] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:29:44.390] [[32mDispatcher[0m] Event event_name Finished in 0.006548 seconds
+
+I [2013-10-27 18:29:45.662] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:45.662] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:45.662] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:45.662] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:29:45.669] [[32mDispatcher[0m] Event event_name Finished in 0.007148 seconds
+
+I [2013-10-27 18:29:48.379] [[32mConnectionManager[0m] Connection closed: #<Connection::6eee5b1120ad100a4a68>
+
+I [2013-10-27 18:29:49.671] [[32mConnectionManager[0m] Connection opened: #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:29:49.671] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:29:49.671] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:29:49.671] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:29:49.671] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:29:49.674] [[32mDispatcher[0m] Event client_connected Finished in 0.002171 seconds
+
+I [2013-10-27 18:29:52.126] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:52.126] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:52.126] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:52.126] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:29:52.133] [[32mDispatcher[0m] Event event_name Finished in 0.006766 seconds
+
+I [2013-10-27 18:29:53.240] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:29:53.240] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:29:53.240] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:29:53.240] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:29:53.247] [[32mDispatcher[0m] Event event_name Finished in 0.006887 seconds
+
+I [2013-10-27 18:30:04.568] [[32mConnectionManager[0m] Connection closed: #<Connection::7bbc26ff269c9388cfc3>
+
+I [2013-10-27 18:30:04.776] [[32mConnectionManager[0m] Connection opened: #<Connection::b725962e72f3cb8cd176>
+
+I [2013-10-27 18:30:04.777] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:30:04.777] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:30:04.777] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:30:04.777] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b725962e72f3cb8cd176>
+
+I [2013-10-27 18:30:04.781] [[32mDispatcher[0m] Event client_connected Finished in 0.004152 seconds
+
+I [2013-10-27 18:30:08.989] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:08.989] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:08.989] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:08.990] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:08.997] [[32mDispatcher[0m] Event event_name Finished in 0.007038 seconds
+
+I [2013-10-27 18:30:10.219] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:10.219] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:10.219] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:10.219] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:10.226] [[32mDispatcher[0m] Event event_name Finished in 0.006576 seconds
+
+I [2013-10-27 18:30:11.652] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:11.652] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:11.652] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:11.652] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:11.659] [[32mDispatcher[0m] Event event_name Finished in 0.006675 seconds
+
+I [2013-10-27 18:30:13.860] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:13.860] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:13.861] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:13.861] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:13.931] [[32mDispatcher[0m] Event event_name Finished in 0.00687 seconds
+
+I [2013-10-27 18:30:14.723] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:14.723] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:14.723] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:14.723] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:14.730] [[32mDispatcher[0m] Event event_name Finished in 0.006768 seconds
+
+I [2013-10-27 18:30:15.582] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:15.582] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:15.582] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:15.582] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:15.589] [[32mDispatcher[0m] Event event_name Finished in 0.006592 seconds
+
+I [2013-10-27 18:30:17.386] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:17.386] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:17.386] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:17.386] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:30:17.393] [[32mDispatcher[0m] Event event_name Finished in 0.006602 seconds
+
+I [2013-10-27 18:30:20.647] [[32mConnectionManager[0m] Connection closed: #<Connection::b725962e72f3cb8cd176>
+
+I [2013-10-27 18:30:20.853] [[32mConnectionManager[0m] Connection opened: #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:20.854] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:30:20.854] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:30:20.854] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:30:20.854] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:20.856] [[32mDispatcher[0m] Event client_connected Finished in 0.002206 seconds
+
+I [2013-10-27 18:30:22.930] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:22.930] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:22.930] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:22.930] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:22.937] [[32mDispatcher[0m] Event event_name Finished in 0.007225 seconds
+
+I [2013-10-27 18:30:23.933] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:23.933] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:23.933] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:23.933] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:23.939] [[32mDispatcher[0m] Event event_name Finished in 0.005934 seconds
+
+I [2013-10-27 18:30:24.907] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:24.908] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:24.908] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:24.908] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:24.915] [[32mDispatcher[0m] Event event_name Finished in 0.007358 seconds
+
+I [2013-10-27 18:30:25.871] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:25.871] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:25.871] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:25.871] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:25.876] [[32mDispatcher[0m] Event event_name Finished in 0.004987 seconds
+
+I [2013-10-27 18:30:26.899] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:26.899] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:26.899] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:26.899] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:26.939] [[32mDispatcher[0m] Event event_name Finished in 0.039742 seconds
+
+I [2013-10-27 18:30:27.895] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:27.895] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:27.895] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:27.895] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:27.902] [[32mDispatcher[0m] Event event_name Finished in 0.006758 seconds
+
+I [2013-10-27 18:30:28.901] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:28.901] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:28.901] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:28.901] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:28.908] [[32mDispatcher[0m] Event event_name Finished in 0.006923 seconds
+
+I [2013-10-27 18:30:29.953] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:29.953] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:29.953] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:29.953] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:29.960] [[32mDispatcher[0m] Event event_name Finished in 0.00725 seconds
+
+I [2013-10-27 18:30:30.949] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:30.949] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:30.949] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:30.949] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:30.955] [[32mDispatcher[0m] Event event_name Finished in 0.005598 seconds
+
+I [2013-10-27 18:30:31.961] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:30:31.961] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:30:31.961] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:30:31.961] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:30:31.968] [[32mDispatcher[0m] Event event_name Finished in 0.007027 seconds
+
+I [2013-10-27 18:32:26.824] [[32mConnectionManager[0m] Connection closed: #<Connection::6a4558eda1b0fc21b412>
+
+I [2013-10-27 18:32:29.491] [[32mConnectionManager[0m] Connection opened: #<Connection::4aa04a6ad7fd0371dcfd>
+
+I [2013-10-27 18:32:29.492] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:32:29.492] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:32:29.492] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:32:29.492] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4aa04a6ad7fd0371dcfd>
+
+I [2013-10-27 18:32:29.494] [[32mDispatcher[0m] Event client_connected Finished in 0.001985 seconds
+
+I [2013-10-27 18:32:31.289] [[32mConnectionManager[0m] Connection closed: #<Connection::4aa04a6ad7fd0371dcfd>
+
+I [2013-10-27 18:32:32.152] [[32mConnectionManager[0m] Connection opened: #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:32.152] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:32:32.152] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:32:32.152] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:32:32.152] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:32.154] [[32mDispatcher[0m] Event client_connected Finished in 0.002036 seconds
+
+I [2013-10-27 18:32:36.860] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:36.860] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:36.860] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:36.860] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:36.868] [[32mDispatcher[0m] Event event_name Finished in 0.007415 seconds
+
+I [2013-10-27 18:32:38.498] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:38.498] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:38.499] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:38.499] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:38.506] [[32mDispatcher[0m] Event event_name Finished in 0.006958 seconds
+
+I [2013-10-27 18:32:39.735] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:39.735] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:39.735] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:39.735] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:39.741] [[32mDispatcher[0m] Event event_name Finished in 0.006185 seconds
+
+I [2013-10-27 18:32:41.161] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:41.161] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:41.161] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:41.161] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:41.168] [[32mDispatcher[0m] Event event_name Finished in 0.006703 seconds
+
+I [2013-10-27 18:32:42.186] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:42.186] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:42.186] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:42.186] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:42.193] [[32mDispatcher[0m] Event event_name Finished in 0.007286 seconds
+
+I [2013-10-27 18:32:43.419] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:43.419] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:43.419] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:43.419] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:43.426] [[32mDispatcher[0m] Event event_name Finished in 0.006724 seconds
+
+I [2013-10-27 18:32:44.602] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:32:44.602] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:32:44.602] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:32:44.602] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:44.609] [[32mDispatcher[0m] Event event_name Finished in 0.00697 seconds
+
+I [2013-10-27 18:32:47.361] [[32mConnectionManager[0m] Connection closed: #<Connection::01906e7c0d1aa06e6c8e>
+
+I [2013-10-27 18:32:49.152] [[32mConnectionManager[0m] Connection opened: #<Connection::f5add5e1b3efb734104a>
+
+I [2013-10-27 18:32:49.153] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:32:49.153] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:32:49.153] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:32:49.153] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::f5add5e1b3efb734104a>
+
+I [2013-10-27 18:32:49.156] [[32mDispatcher[0m] Event client_connected Finished in 0.003064 seconds
+
+I [2013-10-27 18:33:13.576] [[32mConnectionManager[0m] Connection closed: #<Connection::313e176e925b9b671f9e>
+
+I [2013-10-27 18:33:13.769] [[32mConnectionManager[0m] Connection opened: #<Connection::4ac363d13dbf612b1cdd>
+
+I [2013-10-27 18:33:13.769] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:33:13.770] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:33:13.770] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:33:13.770] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::4ac363d13dbf612b1cdd>
+
+I [2013-10-27 18:33:13.774] [[32mDispatcher[0m] Event client_connected Finished in 0.004417 seconds
+
+I [2013-10-27 18:33:15.827] [[32mConnectionManager[0m] Connection closed: #<Connection::4ac363d13dbf612b1cdd>
+
+I [2013-10-27 18:33:30.816] [[32mConnectionManager[0m] Connection opened: #<Connection::ff6d7f78cfe87b2a2f24>
+
+I [2013-10-27 18:33:30.822] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:33:30.823] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:33:30.823] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:33:30.824] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ff6d7f78cfe87b2a2f24>
+
+I [2013-10-27 18:33:30.855] [[32mDispatcher[0m] Event client_connected Finished in 0.002997 seconds
+
+I [2013-10-27 18:34:05.603] [[32mConnectionManager[0m] Connection closed: #<Connection::ff6d7f78cfe87b2a2f24>
+
+I [2013-10-27 18:34:05.765] [[32mConnectionManager[0m] Connection opened: #<Connection::5cdb1ad35cf70e794058>
+
+I [2013-10-27 18:34:05.766] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:34:05.766] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:34:05.766] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:34:05.766] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::5cdb1ad35cf70e794058>
+
+I [2013-10-27 18:34:05.768] [[32mDispatcher[0m] Event client_connected Finished in 0.002505 seconds
+
+I [2013-10-27 18:35:07.820] [[32mConnectionManager[0m] Connection opened: #<Connection::9db78c2ef381d33427e9>
+
+I [2013-10-27 18:35:07.821] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:35:07.821] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:35:07.821] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:35:07.821] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9db78c2ef381d33427e9>
+
+I [2013-10-27 18:35:07.823] [[32mDispatcher[0m] Event client_connected Finished in 0.002127 seconds
+
+I [2013-10-27 18:35:19.716] [[32mConnectionManager[0m] Connection closed: #<Connection::9db78c2ef381d33427e9>
+
+I [2013-10-27 18:35:20.291] [[32mConnectionManager[0m] Connection opened: #<Connection::7f2a15cb6413c58ea669>
+
+I [2013-10-27 18:35:20.295] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:35:20.295] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:35:20.296] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:35:20.296] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::7f2a15cb6413c58ea669>
+
+I [2013-10-27 18:35:20.319] [[32mDispatcher[0m] Event client_connected Finished in 0.00223 seconds
+
+I [2013-10-27 18:35:26.757] [[32mConnectionManager[0m] Connection closed: #<Connection::7f2a15cb6413c58ea669>
+
+I [2013-10-27 18:35:26.285] [[32mConnectionManager[0m] Connection opened: #<Connection::311a2d017bc4f95a476b>
+
+I [2013-10-27 18:35:26.285] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:35:26.286] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:35:26.286] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:35:26.286] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::311a2d017bc4f95a476b>
+
+I [2013-10-27 18:35:26.288] [[32mDispatcher[0m] Event client_connected Finished in 0.002222 seconds
+
+I [2013-10-27 18:35:36.615] [[32mConnectionManager[0m] Connection closed: #<Connection::311a2d017bc4f95a476b>
+
+I [2013-10-27 18:35:54.245] [[32mConnectionManager[0m] Connection opened: #<Connection::0282962fc3d39c860021>
+
+I [2013-10-27 18:35:54.246] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:35:54.246] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:35:54.246] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:35:54.246] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::0282962fc3d39c860021>
+
+I [2013-10-27 18:35:54.248] [[32mDispatcher[0m] Event client_connected Finished in 0.001997 seconds
+
+I [2013-10-27 18:38:25.467] [[32mConnectionManager[0m] Connection closed: #<Connection::0282962fc3d39c860021>
+
+I [2013-10-27 18:38:25.458] [[32mConnectionManager[0m] Connection opened: #<Connection::9df0a6771ca5da7a2d86>
+
+I [2013-10-27 18:38:25.458] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:38:25.458] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:38:25.458] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:38:25.458] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9df0a6771ca5da7a2d86>
+
+I [2013-10-27 18:38:25.461] [[32mDispatcher[0m] Event client_connected Finished in 0.002192 seconds
+
+I [2013-10-27 18:38:48.998] [[32mConnectionManager[0m] Connection closed: #<Connection::9df0a6771ca5da7a2d86>
+
+I [2013-10-27 18:38:49.369] [[32mConnectionManager[0m] Connection opened: #<Connection::642cd9caae79c81430a0>
+
+I [2013-10-27 18:38:49.370] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:38:49.370] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:38:49.370] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:38:49.370] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::642cd9caae79c81430a0>
+
+I [2013-10-27 18:38:49.372] [[32mDispatcher[0m] Event client_connected Finished in 0.002284 seconds
+
+I [2013-10-27 18:39:52.361] [[32mConnectionManager[0m] Connection closed: #<Connection::642cd9caae79c81430a0>
+
+I [2013-10-27 18:39:52.803] [[32mConnectionManager[0m] Connection opened: #<Connection::b7f587f522ab7a3e7de2>
+
+I [2013-10-27 18:39:52.803] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:39:52.803] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:39:52.804] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:39:52.804] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b7f587f522ab7a3e7de2>
+
+I [2013-10-27 18:39:52.806] [[32mDispatcher[0m] Event client_connected Finished in 0.002281 seconds
+
+I [2013-10-27 18:39:55.396] [[32mConnectionManager[0m] Connection closed: #<Connection::b7f587f522ab7a3e7de2>
+
+I [2013-10-27 18:39:55.662] [[32mConnectionManager[0m] Connection opened: #<Connection::dfa494dd5bb0ee036e87>
+
+I [2013-10-27 18:39:55.663] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:39:55.663] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:39:55.663] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:39:55.663] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::dfa494dd5bb0ee036e87>
+
+I [2013-10-27 18:39:55.667] [[32mDispatcher[0m] Event client_connected Finished in 0.003723 seconds
+
+I [2013-10-27 18:40:15.113] [[32mConnectionManager[0m] Connection closed: #<Connection::5cdb1ad35cf70e794058>
+
+I [2013-10-27 18:40:15.277] [[32mConnectionManager[0m] Connection opened: #<Connection::541a411a54334a5afe57>
+
+I [2013-10-27 18:40:15.278] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:40:15.278] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:40:15.278] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:40:15.278] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::541a411a54334a5afe57>
+
+I [2013-10-27 18:40:15.280] [[32mDispatcher[0m] Event client_connected Finished in 0.002334 seconds
+
+I [2013-10-27 18:40:16.709] [[32mConnectionManager[0m] Connection closed: #<Connection::541a411a54334a5afe57>
+
+I [2013-10-27 18:40:22.140] [[32mConnectionManager[0m] Connection closed: #<Connection::dfa494dd5bb0ee036e87>
+
+I [2013-10-27 18:40:22.433] [[32mConnectionManager[0m] Connection opened: #<Connection::6aea491dac8e2018da1d>
+
+I [2013-10-27 18:40:22.434] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:40:22.434] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:40:22.434] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:40:22.434] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::6aea491dac8e2018da1d>
+
+I [2013-10-27 18:40:22.436] [[32mDispatcher[0m] Event client_connected Finished in 0.002076 seconds
+
+I [2013-10-27 18:40:37.602] [[32mConnectionManager[0m] Connection closed: #<Connection::6aea491dac8e2018da1d>
+
+I [2013-10-27 18:40:37.845] [[32mConnectionManager[0m] Connection opened: #<Connection::b11fdaea9bd92fe3a065>
+
+I [2013-10-27 18:40:37.846] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:40:37.846] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:40:37.846] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:40:37.846] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b11fdaea9bd92fe3a065>
+
+I [2013-10-27 18:40:37.848] [[32mDispatcher[0m] Event client_connected Finished in 0.002101 seconds
+
+I [2013-10-27 18:40:44.507] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:40:44.507] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:40:44.507] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:40:44.507] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::b11fdaea9bd92fe3a065>
+
+I [2013-10-27 18:40:44.515] [[32mDispatcher[0m] Event event_name Finished in 0.007345 seconds
+
+I [2013-10-27 18:40:50.899] [[32mConnectionManager[0m] Connection closed: #<Connection::b11fdaea9bd92fe3a065>
+
+I [2013-10-27 18:41:22.487] [[32mConnectionManager[0m] Connection closed: #<Connection::f5add5e1b3efb734104a>
+
+I [2013-10-27 18:41:23.731] [[32mConnectionManager[0m] Connection opened: #<Connection::eb217efb953fb8ab24cf>
+
+I [2013-10-27 18:41:23.732] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:41:23.732] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:41:23.732] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:41:23.732] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::eb217efb953fb8ab24cf>
+
+I [2013-10-27 18:41:23.734] [[32mDispatcher[0m] Event client_connected Finished in 0.001917 seconds
+
+I [2013-10-27 18:41:29.821] [[32mConnectionManager[0m] Connection closed: #<Connection::eb217efb953fb8ab24cf>
+
+I [2013-10-27 18:41:30.409] [[32mConnectionManager[0m] Connection opened: #<Connection::ff34cc3cf81bfc2b86ec>
+
+I [2013-10-27 18:41:30.409] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:41:30.409] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:41:30.409] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:41:30.409] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::ff34cc3cf81bfc2b86ec>
+
+I [2013-10-27 18:41:30.411] [[32mDispatcher[0m] Event client_connected Finished in 0.001934 seconds
+
+I [2013-10-27 18:41:33.399] [[32mConnectionManager[0m] Connection closed: #<Connection::ff34cc3cf81bfc2b86ec>
+
+I [2013-10-27 18:41:34.484] [[32mConnectionManager[0m] Connection opened: #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:34.485] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:41:34.485] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:41:34.485] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:41:34.485] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:34.487] [[32mDispatcher[0m] Event client_connected Finished in 0.002292 seconds
+
+I [2013-10-27 18:41:37.349] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:41:37.349] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:41:37.349] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:41:37.349] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:37.356] [[32mDispatcher[0m] Event event_name Finished in 0.006603 seconds
+
+I [2013-10-27 18:41:38.734] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:41:38.734] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:41:38.734] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:41:38.734] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:38.741] [[32mDispatcher[0m] Event event_name Finished in 0.006762 seconds
+
+I [2013-10-27 18:41:44.616] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:41:44.616] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:41:44.616] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:41:44.616] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:44.624] [[32mDispatcher[0m] Event event_name Finished in 0.007328 seconds
+
+I [2013-10-27 18:41:45.956] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:41:45.956] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:41:45.956] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:41:45.956] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:41:45.963] [[32mDispatcher[0m] Event event_name Finished in 0.006875 seconds
+
+I [2013-10-27 18:41:48.107] [[32mConnectionManager[0m] Connection closed: #<Connection::bf82073806d0cf797ec8>
+
+I [2013-10-27 18:42:01.151] [[32mConnectionManager[0m] Connection opened: #<Connection::38ee631773dba3a02c8d>
+
+I [2013-10-27 18:42:01.151] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:42:01.151] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:42:01.151] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:42:01.151] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::38ee631773dba3a02c8d>
+
+I [2013-10-27 18:42:01.154] [[32mDispatcher[0m] Event client_connected Finished in 0.002542 seconds
+
+I [2013-10-27 18:42:42.505] [[32mConnectionManager[0m] Connection opened: #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:42.505] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:42:42.505] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:42:42.505] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:42:42.505] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:42.508] [[32mDispatcher[0m] Event client_connected Finished in 0.002118 seconds
+
+I [2013-10-27 18:42:44.686] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:44.686] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:44.686] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:44.686] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:44.694] [[32mDispatcher[0m] Event event_name Finished in 0.007739 seconds
+
+I [2013-10-27 18:42:45.505] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:45.505] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:45.505] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:45.505] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:45.512] [[32mDispatcher[0m] Event event_name Finished in 0.006753 seconds
+
+I [2013-10-27 18:42:46.779] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:46.779] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:46.779] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:46.779] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:46.786] [[32mDispatcher[0m] Event event_name Finished in 0.007023 seconds
+
+I [2013-10-27 18:42:48.715] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:48.729] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:48.734] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:48.738] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:48.142] [[32mDispatcher[0m] Event event_name Finished in 0.006769 seconds
+
+I [2013-10-27 18:42:49.644] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:49.645] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:49.645] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:49.645] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:49.652] [[32mDispatcher[0m] Event event_name Finished in 0.007172 seconds
+
+I [2013-10-27 18:42:50.129] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:50.129] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:50.129] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:50.129] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:50.139] [[32mDispatcher[0m] Event event_name Finished in 0.009493 seconds
+
+I [2013-10-27 18:42:50.877] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:50.877] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:50.877] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:50.877] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:50.884] [[32mDispatcher[0m] Event event_name Finished in 0.006418 seconds
+
+I [2013-10-27 18:42:51.897] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:51.897] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:51.897] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:51.897] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:51.904] [[32mDispatcher[0m] Event event_name Finished in 0.007119 seconds
+
+I [2013-10-27 18:42:52.557] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:52.557] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:52.557] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:52.557] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:52.564] [[32mDispatcher[0m] Event event_name Finished in 0.006761 seconds
+
+I [2013-10-27 18:42:53.431] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:53.431] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:53.431] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:53.431] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:53.438] [[32mDispatcher[0m] Event event_name Finished in 0.006871 seconds
+
+I [2013-10-27 18:42:54.769] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:42:54.769] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:42:54.769] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:42:54.769] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::c43aab7c0c6f43b33c5b>
+
+I [2013-10-27 18:42:54.777] [[32mDispatcher[0m] Event event_name Finished in 0.007598 seconds
+
+I [2013-10-27 18:43:00.571] [[32mConnectionManager[0m] Connection closed: #<Connection::38ee631773dba3a02c8d>
+
+I [2013-10-27 18:43:02.142] [[32mConnectionManager[0m] Connection opened: #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:02.142] [[32mDispatcher[0m] Started Event: client_connected
+I [2013-10-27 18:43:02.143] [[32mDispatcher[0m] [36mName:[0m client_connected
+I [2013-10-27 18:43:02.143] [[32mDispatcher[0m] [36mData:[0m {"connection_id"=>nil}
+I [2013-10-27 18:43:02.143] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:02.146] [[32mDispatcher[0m] Event client_connected Finished in 0.002933 seconds
+
+I [2013-10-27 18:43:03.484] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:43:03.484] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:43:03.484] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:43:03.484] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:03.491] [[32mDispatcher[0m] Event event_name Finished in 0.007382 seconds
+
+I [2013-10-27 18:43:04.803] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:43:04.803] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:43:04.803] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:43:04.804] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:04.811] [[32mDispatcher[0m] Event event_name Finished in 0.006907 seconds
+
+I [2013-10-27 18:43:05.824] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:43:05.824] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:43:05.824] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:43:05.824] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:05.831] [[32mDispatcher[0m] Event event_name Finished in 0.006468 seconds
+
+I [2013-10-27 18:43:06.906] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:43:06.907] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:43:06.907] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:43:06.907] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:06.913] [[32mDispatcher[0m] Event event_name Finished in 0.006567 seconds
+
+I [2013-10-27 18:43:08.493] [[32mDispatcher[0m] Started Event: event_name
+I [2013-10-27 18:43:08.493] [[32mDispatcher[0m] [36mName:[0m event_name
+I [2013-10-27 18:43:08.493] [[32mDispatcher[0m] [36mData:[0m "test"
+I [2013-10-27 18:43:08.493] [[32mDispatcher[0m] [36mConnection:[0m #<Connection::9203a7766d6a32a1c17b>
+
+I [2013-10-27 18:43:08.501] [[32mDispatcher[0m] Event event_name Finished in 0.00701 seconds
+
+I [2013-10-27 18:43:11.108] [[32mConnectionManager[0m] Connection closed: #<Connection::9203a7766d6a32a1c17b>
+

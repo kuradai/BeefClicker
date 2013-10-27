@@ -24,12 +24,22 @@ $(window).load(function (){
     $("#num").html("×"+data.message);
     $("#proceeds").html(data.message*500 + "円");
   });
-});
 
-function ff(){
-  var object_to_send = { data: 'test' }
-  dispatcher.trigger('event_name', object_to_send, success, failure); 
-}
+  $("#button").click(function(){
+    var object_to_send = { data: 'test' }
+    dispatcher.trigger('event_name', object_to_send, success, failure); 
+    $("#button").animate({ 
+      "font-size": "20px"
+    }, 200 ).animate({ 
+      "font-size": "80px"
+    }, 380 );
+    $("#num").animate({ 
+      "font-size": "140px"
+    }, 200 ).animate({ 
+      "font-size": "80px"
+    }, 380 );
+  });
+});
 
 document.onkeydown = function (e){
   if (!e) e = window.event;
@@ -42,5 +52,7 @@ document.onkeydown = function (e){
     ff();ff();
   }
 }
+
+
 
 
