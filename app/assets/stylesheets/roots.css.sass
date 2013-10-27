@@ -2,8 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-
-$orange:#ff5e69
+$pink:#ff5e69
 $white:#efefef
 $gray:#bcbcbc
 $light_gray:#cbcbcb
@@ -13,26 +12,28 @@ body,
 div,
 ul,
 li,
+svg,
+path,
 a
   margin: 0px
   padding: 0px
-
 
 body
   width: 100%
   height: 100%
   background: $white
-  margin: 40px 0
-  font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",sans-serif
+  margin: 60px 0 0 0 
+  font-family: sans-serif
   font-style: normal
 
 #menu
   position: fixed
+  border: 0px solid $pink
   z-index: 10
   top: 0
   left: 0
   width: 100%
-  background: $orange
+  background: $pink
   padding: 0 30px
   height: 30px
   line-height: 30px
@@ -46,14 +47,40 @@ body
     line-height: 30px
   a:hover,
   .active
-    color: $orange
+    color: $pink
     background: $white
-strong
-  color: $orange
 
+strong
+  color: $pink
+
+h3
+  color: $pink
+  border-bottom: 1px solid $pink
+  font-style: bold
+  text-align: center
+
+.box
+  padding: 20px
+
+#headtext
+  background: $pink
+  h1 
+    font-size: 64px
+  p
+    text-align: right
+  h1,p
+    margin: 20px
+    color: $white
+
+#headimage img
+  display: block
+  margin: 0 auto
+  max-width: 100%
+  max-height: 380px
+  height: auto
+  
 ul
   list-style: none
-
   li
     text-align: center
     border-bottom: 1px solid $gray
@@ -63,14 +90,14 @@ ul
 
 #section
   margin: 0 auto
-  width: 512px
-  border: 2px solid $gray
+  width: 100%
+  max-width: 512px
+  border: 2px solid $pink
   text-align: center
-
   #num
     font-size: 72px
-    background: $light_gray
-
+    background: $pink
+    color: $white
   #button
     padding: 20px
     background: $white
@@ -78,16 +105,39 @@ ul
     &:hover
       background: $light_gray + #111
     &:active
-      background: $orange + #888
+      background: $pink + #888
 
-#logo      
+
+
+#buttons
+  margin: 0 auto
+  height: 512px  
+  #num, #button
+    display: block
+    margin: 0 auto
+    width:  448px
+    height: 448px
+    line-height: 448px
+    text-align: center
+    font-style: bold
+    font-size: 80px
+  #num
+    background: $pink
+    color: $white    
+  #button
+    border: 3px solid $pink
+    border-radius: 100%
+    color: $pink
+    transition: transform 0.5s ease-out
+    -webkit-transition: -webkit-transform 0.5s ease-out
+    -moz-transition: -moz-transform 0.5s ease-out
+    &:active
+      -moz-transform: rotateY(180deg)
+      -webkit-transform: rotateY(180deg)
+
+#clouds
   position: fixed
-  top: 20px
-  right: 60px
-  width: 100px
-  height: 120px
-  z-index: -10
-  background-image: url(logo.png)
-  background-repeat: no-repeat
-  background-position: left bottom
-  background-size: 100px auto
+  bottom: 0 
+  path
+    fill: $pink
+    stroke: $pink
