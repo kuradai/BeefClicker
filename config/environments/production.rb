@@ -8,6 +8,7 @@ Hoge::Application.configure do
   # your application in memory, allowing both thread web servers
   # and those relying on copy on write to perform better.
   # Rake tasks automatically ignore this option for performance.
+
   config.eager_load = true
 
   # Full error reports are disabled and caching is turned on.
@@ -77,4 +78,5 @@ Hoge::Application.configure do
 
   # Use default logging formatter so that PID and timestamp are not suppressed.
   config.log_formatter = ::Logger::Formatter.new
+  config.time_zone = 'Asia/Tokyo'
 end

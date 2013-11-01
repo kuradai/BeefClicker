@@ -1,0 +1,31 @@
+<%= javascript_include_tag "websocket_rails/main" %>
+<%= javascript_include_tag "websocket" %>
+
+<div class="row">
+  <div class="col-6" id="headtext">
+    <h1>KASUGA<br>BEEF<br>STROGANOFF</h1>
+    <p>by 春日地区クラス代表者会議</p>
+  </div>
+  <div class="col-6" id="headimage">
+    <%= image_tag "tento.png" %>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-6">
+    <div class="box">
+      <h3>いろいろ</h3>
+      <p>なんかめっちゃカッコイイ説明文とか</p>
+      <p>出店ID的なやつとかQRコード.</p>
+      <p>クラ代とか雙峰祭へのリンク. </p>
+    </div>
+  </div>
+  <div class="col-6">
+    <div class="box">
+      <h3>売上情報 (ほぼリアルタイムに更新中)</h3>
+      <div id="section">
+        <div id="num">0</div>
+        <div id="proceeds"></div>
+      </div>
+    </div>
+  </div>
