@@ -22,7 +22,7 @@ $(window).load(function (){
   dispatcher.bind('event_name',function(data){
     console.log(data.message);
     $("#num").html("×"+data.message);
-    $("#proceeds").html(data.message*500 + "円");
+    $("#proceeds").html(data.message*300 + "円");
   });
 
   $("#button").click(function(){
@@ -41,17 +41,7 @@ $(window).load(function (){
   });
 });
 
-document.onkeydown = function (e){
-  if (!e) e = window.event;
-  //console.log(event.keyCode);
 
-  if(event.keyCode == 39 || event.keyCode == 37){
-    ff();
-  }
-  if(event.keyCode == 40){
-    ff();ff();
-  }
-}
 
 
 
