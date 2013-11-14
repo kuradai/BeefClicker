@@ -26,8 +26,6 @@ $(window).load(function (){
   });
 
   $("#button").click(function(){
-    var object_to_send = { data: 'test' }
-    dispatcher.trigger('event_name', object_to_send, success, failure); 
     $("#button").animate({ 
       "font-size": "20px"
     }, 200 ).animate({ 

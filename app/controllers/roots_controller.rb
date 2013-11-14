@@ -12,13 +12,6 @@ class RootsController < ApplicationController
   def button
   end
 
-  before_filter :auth
-  private
-  def auth
-    authenticate_or_request_with_http_basic do |user,pass|
-      user == 'kasuga' && pass == 'beefstroganoff'
-    end
-  end
 end
 
 
