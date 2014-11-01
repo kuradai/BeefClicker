@@ -4,7 +4,10 @@ Hoge::Application.routes.draw do
 
   get 'all' => 'roots#all'
   get 'chart' => 'roots#chart'
-  get 'button'=> 'roots#button'  
+  get 'button'=> 'roots#button'
+  get 'setting'=> 'roots#setting'
+  patch 'setting'=> 'roots#change_setting'
+  delete 'delete/:id'=> 'roots#delete'
   get "api/calculated" => 'apis#calculated'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

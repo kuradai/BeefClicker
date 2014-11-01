@@ -2,7 +2,7 @@ class ApisController < ApplicationController
   def calculated
 
     count = 0
-    nowtime = DateTime.new(2013, 10, 1, 00, 00)
+    nowtime = DateTime.new(2014, 11, 2, 00, 00)
     @counts = Hash.new()
     datasets = Array.new()
     Item.all.each do|item|

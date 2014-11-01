@@ -1,0 +1,13 @@
+<%= form_for @setting do |f| %>
+
+  <ul class="list-unstyled">
+    <li class="form-group">
+      <%= f.label :price %>
+      <%= f.number_field :price, :class => 'form-control' %>
+    </li>
+  </ul>
+
+  <div class="actions">
+    <%= f.submit 'Save', :class => 'btn btn-success' %>
+  </div>
+<% end %>

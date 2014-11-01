@@ -21,11 +21,13 @@ $(window).load(function (){
 
   dispatcher.bind('event_name',function(data){
     console.log(data.message);
-    $("#num").html("×"+data.message);
-    $("#proceeds").html(data.message*300 + "円");
+    $("#num").html("×"+data.message.count);
+    $("#proceeds").html(data.message.sum +  "円");
   });
 
   $("#button").click(function(){
+    object_to_send = { data: 'test' }
+    dispatcher.trigger('event_name', object_to_send, success, failure); 
     $("#button").animate({ 
       "font-size": "20px"
     }, 200 ).animate({ 
@@ -38,9 +40,3 @@ $(window).load(function (){
     }, 380 );
   });
 });
-
-
-
-
-
-
